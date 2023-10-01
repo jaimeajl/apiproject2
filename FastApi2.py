@@ -184,7 +184,7 @@ dfusers_items.drop(['items'], axis=1, inplace=True)
 dfusers_items.drop(['playtime_2weeks'], axis=1, inplace=True)
 
 
-# import pandas as pd
+import pandas as pd
 
 # Supongamos que ya tienes el DataFrame dfusers_items cargado
 
@@ -197,7 +197,7 @@ dfusers_items['id'] = pd.to_numeric(dfusers_items['id'], errors='coerce')
 print(dfusers_items.dtypes)
 
 
-# import pandas as pd
+import pandas as pd
 
 # Verifica el DataFrame dfsteam_games_cleaned
 if dfsteam_games_cleaned['id'].apply(lambda x: isinstance(x, (int, float))).all():
@@ -212,7 +212,7 @@ else:
     print("La columna 'id' de dfusers_items contiene valores no numéricos.")
 
 
- #    import pandas as pd
+import pandas as pd
 
 # Supongamos que ya tienes los DataFrames dfsteam_games_cleaned y dfusers_items cargados
 
@@ -234,7 +234,7 @@ year_with_most_playtime = merged_df.groupby(merged_df['release_date'].dt.year)['
 print(f"Año con más horas jugadas para el género 'Adventure': {year_with_most_playtime}")
 
 
-# import pandas as pd
+import pandas as pd
 from fastapi import FastAPI
 
 # Supongamos que ya tienes los DataFrames dfsteam_games_cleaned y dfusers_items cargados
