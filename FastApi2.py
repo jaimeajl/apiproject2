@@ -11,54 +11,14 @@ with open('steam_games.json') as e:
         data.append(json.loads(line))
 dfsteam_games = pd.DataFrame(data)
 
-dfsteam_games.head()
-
 dfsteam_games = dfsteam_games.drop(['publisher', 'app_name', 'url', 'tags', 'reviews_url', 'specs', 'price', 'early_access', 'developer'], axis=1)
 
 
 dfsteam_games.head()
 
-# Contar filas con valores nulos
-filas_con_nulos = dfsteam_games.isnull().sum(axis=1)
-total_filas = len(dfsteam_games)
-
-# Calcular porcentaje de filas con valores nulos
-porcentaje_nulos = (filas_con_nulos / total_filas) * 100
-
-# Imprimir resultados
-print(f"Total de filas con valores nulos: {filas_con_nulos.sum()}")
-print(f"Porcentaje de filas con valores nulos: {porcentaje_nulos.mean()}%")
-
-# Número de filas antes de eliminar NaN
-num_filas_antes = len(dfsteam_games)
-print("Total de filas:", num_filas_antes)
 
 # Eliminar filas con NaN y crear el nuevo DataFrame
 dfsteam_games_cleaned = dfsteam_games.dropna()
-
-# Número de filas después de eliminar NaN
-num_filas_despues = len(dfsteam_games_cleaned)
-print("Total de filas despues drop:", num_filas_despues )
-
-# Calcular el total de filas eliminadas
-total_filas_eliminadas = num_filas_antes - num_filas_despues
-
-print("Total de filas eliminadas:", total_filas_eliminadas)
-
-# Contar filas con valores nulos
-filas_con_nulos = dfsteam_games_cleaned.isnull().sum(axis=1)
-total_filas = len(dfsteam_games_cleaned)
-
-# Calcular porcentaje de filas con valores nulos
-porcentaje_nulos = (filas_con_nulos / total_filas) * 100
-
-# Imprimir resultados
-print(f"Total de filas con valores nulos: {filas_con_nulos.sum()}")
-print(f"Porcentaje de filas con valores nulos: {porcentaje_nulos.mean()}%")
-
-# Imprimir los primeros juegos del DataFrame
-print(dfsteam_games_cleaned.head())
-
 
 
 
@@ -72,9 +32,12 @@ dfsteam_games_cleaned['release_date'] = pd.to_datetime(dfsteam_games_cleaned['re
 
 # import numpy as np
 
+# Reemplazar "Soon.." con NaN
+dfsteam_games_cleaned['release_date'].replace("Soon..", np.nan, inplace=True)
 
+# Convertir la columna a datetime
+dfsteam_games_cleaned['release_date'] = pd.to_datetime(dfsteam_games_cleaned['release_date'], errors='coerce')
 
-dfsteam_games_cleaned.head()
 
 # Convierte la lista de géneros en una cadena de texto separada por comas
 dfsteam_games_cleaned['genres'] = dfsteam_games_cleaned['genres'].apply(lambda x: ', '.join(x))
@@ -154,28 +117,12 @@ records = [eval(line.strip()) for line in data]
 
 df_user_reviews = pd.DataFrame(records)
 
-df_user_reviews.head()
 
 df_user_reviews = df_user_reviews.drop(['user_url'], axis=1)
 
 df_user_reviews.head()
 
 # Contar filas con valores nulos
-filas_con_nulos1 = df_user_reviews.isnull().sum(axis=1)
-total_filas1 = len(dfsteam_games)
-
-# Calcular porcentaje de filas con valores nulos
-porcentaje_nulos1 = (filas_con_nulos1 / total_filas1) * 100
-
-# Imprimir resultados
-print(f"Total de filas con valores nulos: {filas_con_nulos1.sum()}")
-print(f"Porcentaje de filas con valores nulos: {porcentaje_nulos1.mean()}%")
-
-# Imprimir los primeros juegos del DataFrame
-print(df_user_reviews.head())
-
-# Imprimir información sobre el DataFrame
-print(df_user_reviews.info())
 
 
 
@@ -219,12 +166,10 @@ dfusers_items = pd.DataFrame(records)
 dfusers_items.head()
 
 # Suponiendo que tu DataFrame se llama 'df'
-columnas = dfusers_items.columns
-print(columnas)
+
 
 dfusers_items = dfusers_items.drop(['items_count', 'user_url', ], axis=1)
 
-dfusers_items.head()
 
 dfusers_items['playtime_forever'] = dfusers_items['items'].apply(lambda x: x[0].get('playtime_forever') if len(x) > 0 else 0)
 dfusers_items['playtime_2weeks'] = dfusers_items['items'].apply(lambda x: x[0].get('playtime_2weeks') if len(x) > 0 else 0)
@@ -238,7 +183,6 @@ dfusers_items.drop(['items'], axis=1, inplace=True)
 
 dfusers_items.drop(['playtime_2weeks'], axis=1, inplace=True)
 
-dfusers_items.head()
 
 # import pandas as pd
 
@@ -289,7 +233,6 @@ year_with_most_playtime = merged_df.groupby(merged_df['release_date'].dt.year)['
 
 print(f"Año con más horas jugadas para el género 'Adventure': {year_with_most_playtime}")
 
-pip install fastapi
 
 # import pandas as pd
 from fastapi import FastAPI
