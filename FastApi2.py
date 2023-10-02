@@ -10,8 +10,8 @@ import pandas as pd
 from fastapi import FastAPI
 
 # Cargar los DataFrames desde los archivos CSV
-dfsteam_games_cleaned = pd.read_csv(r'C:\Users\jaime\Desktop\Henry\Proyectopersonal1\dfsteam_games_cleaned.csv')
-dfusers_items = pd.read_csv(r'C:\Users\jaime\Desktop\Henry\Proyectopersonal1\dfusers_items.csv')
+dfsteam_games_cleaned = pd.read_csv('dfsteam_games_cleaned.csv')
+dfusers_items = pd.read_csv('dfusers_items.csv')
 
 app = FastAPI()
 
