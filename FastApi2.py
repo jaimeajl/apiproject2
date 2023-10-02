@@ -10,8 +10,11 @@ from fastapi import FastAPI
 # Supongamos que ya tienes los DataFrames dfsteam_games_cleaned y dfusers_items cargados
 # También supongamos que ya tienes FastAPI configurado
 
-dfsteam_games_cleaned = pd.read_csv(r'C:\Users\jaime\Desktop\Henry\Proyectopersonal1\dfsteam_games_cleaned.csv')
-dfusers_items = pd.read_csv(r'C:\Users\jaime\Desktop\Henry\Proyectopersonal1\dfusers_items.csv')
+#dfsteam_games_cleaned = pd.read_csv(r'C:\Users\jaime\Desktop\Henry\Proyectopersonal1\dfsteam_games_cleaned.csv')
+#dfusers_items = pd.read_csv(r'C:\Users\jaime\Desktop\Henry\Proyectopersonal1\dfusers_items.csv')
+
+dfsteam_games_cleaned = pd.read_csv('dfsteam_games_cleaned.csv')
+dfusers_items = pd.read_csv('dfusers_items.csv')
 
 app = FastAPI()
 
