@@ -1,20 +1,19 @@
 import pandas as pd
-import numpy as np
-import json
-import ast
-from pandas import json_normalize
-
-# import pandas as pd
+from sklearn.metrics.pairwise import cosine_similarity
 from fastapi import FastAPI
 
-# Supongamos que ya tienes los DataFrames dfsteam_games_cleaned y dfusers_items cargados
-# También supongamos que ya tienes FastAPI configurado
-
-#dfsteam_games_cleaned = pd.read_csv(r'C:\Users\jaime\Desktop\Henry\Proyectopersonal1\dfsteam_games_cleaned.csv')
-#dfusers_items = pd.read_csv(r'C:\Users\jaime\Desktop\Henry\Proyectopersonal1\dfusers_items.csv')
-
+# Cargar los DataFrames
 dfsteam_games_cleaned = pd.read_csv('dfsteam_games_cleaned.csv')
 dfusers_items = pd.read_csv('dfusers_items.csv')
+
+# Combinar los DataFrames en uno solo
+merged_df = dfusers_items.merge(dfsteam_games_cleaned, on='id', how='inner')
+
+# Crear una matriz de características (usuarios x juegos) usando pivot_table
+user_game_matrix = pd.pivot_table(merged_df, values='playtime_forever', index='steam_id', columns='id', fill_value=0)
+
+# Calcular la similitud del coseno entre juegos
+cosine_sim = cosine_similarity(user_game_matrix.T)
 
 app = FastAPI()
 
@@ -38,8 +37,26 @@ def PlayTimeGenre(genre: str):
 
     return {"year_with_most_playtime": year_with_most_playtime}
 
+@app.get("/recommendations")
+def get_game_recommendations(game_id: int):
+    # Encuentra el índice del juego de entrada
+    idx = user_game_matrix.columns.get_loc(game_id)
+    # Obtén las puntuaciones de similitud para ese juego
+    sim_scores = list(enumerate(cosine_sim[idx]))
+    # Ordena los juegos según la similitud
+    sim_scores = sorted(sim_scores, key=lambda x: x[1], reverse=True)
+    # Obtén los 5 juegos más similares (excluyendo el juego de entrada)
+    similar_games = sim_scores[1:6]
+    # Obtén los IDs de los juegos recomendados
+    recommended_games = [user_game_matrix.columns[i[0]] for i in similar_games]
+    # Mapea los IDs de juego a los nombres de juego
+    recommended_game_names = dfsteam_games_cleaned[dfsteam_games_cleaned['id'].isin(recommended_games)]['title'].tolist()
+    return {"recommended_games": recommended_game_names}
+
 # Ejecutar la aplicación FastAPI
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)
+
+
 
