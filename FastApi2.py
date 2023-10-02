@@ -1,37 +1,7 @@
 import pandas as pd
 
 # import pandas as pd
-import nltk
-from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
-# Descargar el léxico VADER si aún no lo has hecho
-nltk.download('vader_lexicon')
-
-# Crear una instancia de SentimentIntensityAnalyzer
-sid = SentimentIntensityAnalyzer()
-
-# Función para asignar un valor de sentimiento a cada reseña
-def assign_sentiment(review):
-    if isinstance(review, str):
-        sentiment_scores = sid.polarity_scores(review)
-        compound_score = sentiment_scores['compound']
-
-        if compound_score >= 0.05:
-            return 2  # Positivo
-        elif compound_score <= -0.05:
-            return 0  # Malo
-        else:
-            return 1  # Neutral
-    else:
-        return 1  # Valor por defecto si no hay reseña escrita
-
-# Aplicar la función de análisis de sentimientos a la columna 'reviews' y reemplazar 'reviews'
-df_user_reviews['sentiment_analysis'] = df_user_reviews['reviews'].apply(assign_sentiment)
-df_user_reviews.drop(columns=['reviews'], inplace=True)
-
-print("Análisis de sentimientos completado y columna 'reviews' reemplazada por 'sentiment_analysis' en el DataFrame.")
-
-df_user_reviews.to_csv(r'C:\Users\jaime\Desktop\Henry\Proyectopersonal1\user_reviews.csv', index=False)
 
 
 
@@ -69,3 +39,5 @@ def PlayTimeGenre(genre: str):
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)
+
+
