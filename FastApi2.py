@@ -1,15 +1,16 @@
+
+
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from fastapi import FastAPI
 
-# Cargar los datos
-dfsteam_games_cleaned = pd.read_csv('dfsteam_games_cleaned.csv')
-dfusers_items = pd.read_csv('dfusers_items.csv')
+# Cargar el DataFrame fusionado desde el archivo CSV
+df_merged = pd.read_csv('df_merged.csv')
 
-# Calcular la matriz TF-IDF para la columna 'title' en dfsteam_games_cleaned
+# Calcular la matriz TF-IDF para la columna 'title' en df_merged
 tfidf_vectorizer = TfidfVectorizer(stop_words='english')
-tfidf_matrix = tfidf_vectorizer.fit_transform(dfsteam_games_cleaned['title'])
+tfidf_matrix = tfidf_vectorizer.fit_transform(df_merged['title'])
 
 # Calcular la similitud del coseno entre los ítems basado en los títulos
 cosine_sim_titles = cosine_similarity(tfidf_matrix, tfidf_matrix)
@@ -20,14 +21,14 @@ app = FastAPI()
 # Definir la función de recomendación de usuario
 def recomendacion_usuario(user_id):
     # Filtrar los juegos que el usuario ha jugado y obtener sus IDs
-    user_items = dfusers_items[dfusers_items['id'] == user_id]['id'].tolist()
+    user_items = df_merged[df_merged['id'] == user_id]['id'].tolist()
 
     # Crear un diccionario para almacenar la puntuación total de similitud de juegos
     game_scores = {}
 
     # Recorrer los juegos jugados por el usuario
     for game_id in user_items:
-        game_idx = dfsteam_games_cleaned[dfsteam_games_cleaned['id'] == game_id].index[0]
+        game_idx = df_merged[df_merged['id'] == game_id].index[0]
         sim_scores = list(enumerate(cosine_sim_titles[game_idx]))
 
         # Ordenar por similitud y obtener los 5 juegos más similares
@@ -44,7 +45,7 @@ def recomendacion_usuario(user_id):
     recommended_games = sorted(game_scores.items(), key=lambda x: x[1], reverse=True)
 
     # Obtener los títulos de los juegos recomendados
-    recommended_titles = [dfsteam_games_cleaned.iloc[i[0]]['title'] for i in recommended_games]
+    recommended_titles = [df_merged.iloc[i[0]]['title'] for i in recommended_games]
 
     return recommended_titles
 
