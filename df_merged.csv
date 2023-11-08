@@ -1,0 +1,982 @@
+genres,title,release_date,id,user_id,steam_id,playtime_forever
+['Action'],Half-Life,1998-11-08,70,kube134,76561198031442694,4
+['Strategy'],Disciples II: Rise of the Elves,2006-07-06,1630,thebtb,76561197996297264,4
+"['Action', 'Indie', 'RPG']",The Ship: Murder Party,2006-07-11,2400,sandwiches1,76561198052850911,374
+['Action'],Advent Rising,2005-08-09,3800,76561198042441420,76561198042441420,0
+"['Indie', 'Strategy']",DEFCON,2006-09-29,1520,76561198074257942,76561198074257942,39
+"['Indie', 'Simulation']",Garry's Mod,2006-11-29,4000,corrupted_soul,76561198007659921,2644
+['Racing'],RACE - The WTCC Game,2006-11-24,4230,76561198083664578,76561198083664578,2417
+"['Casual', 'Indie']",Gumboy - Crazy Adventures™,2006-12-19,2520,NotJamie,76561198048752818,0
+['Strategy'],Ghost Master®,2003-08-23,6200,76561197999429998,76561197999429998,1
+['Strategy'],Vegas: Make It Big™,2006-12-21,6210,76561198069536961,76561198069536961,79
+"['Adventure', 'RPG']",Dreamfall: The Longest Journey,2006-04-17,6300,HeavilyMedicated,76561198046323951,0
+['Racing'],FlatOut 2™,2006-08-01,2990,76561198007390829,76561198007390829,0
+['Racing'],FlatOut,2005-07-12,6220,MemeMeisterMatt,76561198101747997,17
+"['Action', 'Adventure']",Lost Planet™: Extreme Condition,2007-06-26,6510,76561198093077177,76561198093077177,0
+['Strategy'],CivCity: Rome,2006-07-24,3980,Cheesecake_,76561197992808749,47
+['RPG'],Arx Fatalis,2002-11-12,1700,76561198083375450,76561198083375450,18
+"['Action', 'Adventure', 'RPG']",The Longest Journey,2000-11-17,6310,76561198023904825,76561198023904825,73
+['Strategy'],Sid Meier's Railroads!,2006-10-16,7600,76561198077340186,76561198077340186,212
+"['Casual', 'Indie']",RIP - Trilogy™,2007-06-01,2540,hardsteph,76561198089446068,23
+['Strategy'],X-COM: Terror From the Deep,1995-04-01,7650,John_Batman,76561198020627667,136
+"['Action', 'Adventure']",Tomb Raider: Anniversary,2007-06-05,8000,76561198016458849,76561198016458849,311
+['Action'],Devil May Cry® 3 Special Edition,2006-05-23,6550,76561198082864529,76561198082864529,35
+['Action'],Final DOOM,1996-06-17,2290,76561198210065223,76561198210065223,4
+['Action'],Ultimate Doom,1995-04-30,2280,teamrobo,76561198014358210,3
+['Action'],DOOM II,1994-05-05,2300,76561198013564709,76561198013564709,54
+['Action'],Wolfenstein 3D,1994-08-03,2270,76561198041648531,76561198041648531,7
+['Action'],Return to Castle Wolfenstein,2001-11-20,9010,76561198094722660,76561198094722660,782
+['Action'],BloodRayne,2003-09-09,3810,Rawrimaviking,76561198020248449,0
+['Action'],QUAKE,2007-05-31,2310,76561198052512374,76561198052512374,226
+['Strategy'],Genesis Rising,2007-03-20,3230,76561198034357027,76561198034357027,144
+"['Action', 'RPG']",BioShock™,2007-08-21,7670,76561198009605382,76561198009605382,513
+['Strategy'],"Warhammer® 40,000: Dawn of War® - Game of the Year Edition",2006-01-01,4570,76561198056960847,76561198056960847,710
+['Strategy'],"Warhammer® 40,000: Dawn of War® - Dark Crusade",2006-10-09,4580,AwsomeZ10,76561198055512690,251
+['Strategy'],Rome: Total War™ - Collection,2004-09-22,4760,76561198151910904,76561198151910904,14
+['Strategy'],Rome: Total War™ - Alexander,2006-06-26,4770,76561198035565631,76561198035565631,0
+['Action'],Manhunt,2004-04-20,12130,COLOMBIANO00,76561198088000714,0
+['Racing'],Midnight Club 2,2003-07-01,12160,jwatt1991,76561198033995949,16
+['Action'],Max Payne 2: The Fall of Max Payne,2003-10-14,12150,76561198002429348,76561198002429348,2796
+"['Action', 'Adventure']",Tomb Raider: Legend,2006-04-07,7000,76561198095142204,76561198095142204,62
+['Action'],Max Payne,2001-07-25,12140,76561198053865864,76561198053865864,1095
+['Strategy'],Command &amp; Conquer: Red Alert 3,2008-10-28,17480,76561198052897627,76561198052897627,277
+['Casual'],PuzzleQuest: Challenge of the Warlords,2007-10-10,12500,76561198040994411,76561198040994411,321
+['Strategy'],Prison Tycoon 3™: Lockdown,2007-08-01,12510,76561198044711473,76561198044711473,13
+['Racing'],18 Wheels of Steel: American Long Haul,2007-12-03,12520,76561198042117921,76561198042117921,1388
+['Action'],Conflict: Denied Ops,2008-02-08,8100,76561198024637554,76561198024637554,0
+['Action'],ARMA: Combat Operations,2007-05-08,2780,76561198027719152,76561198027719152,1
+['Action'],Act of War: High Treason,2006-05-30,9760,76561198095380303,76561198095380303,7
+"['Simulation', 'Strategy']",RollerCoaster Tycoon® 3: Platinum,2006-10-26,2700,Ben_Andy,76561198088398113,1299
+['Action'],Unreal 2: The Awakening,2003-02-03,13200,76561198049564546,76561198049564546,0
+['Action'],Tom Clancy's Splinter Cell®,2003-02-18,13560,76561198068639827,76561198068639827,1
+['Action'],Far Cry®,2004-03-23,13520,76561198004722159,76561198004722159,1249
+['Action'],Unreal Tournament: Game of the Year Edition,2000-10-25,13240,76561198046807777,76561198046807777,3
+['Action'],Tom Clancy's Rainbow Six® Vegas,2006-12-12,13540,76561198073704625,76561198073704625,1
+"['Casual', 'Simulation']",Virtual Villagers - The Secret City,2008-05-28,16180,kitonazento,76561197984758601,1896
+['Casual'],Little Farm,2008-06-10,15960,76561198072342419,76561198072342419,283
+['Simulation'],Petz® Horsez® 2,2007-11-13,15160,76561198086829411,76561198086829411,193
+['Simulation'],Silent Hunter®: Wolves of the Pacific,2007-03-20,15200,76561198058577675,76561198058577675,27
+['Simulation'],IL-2 Sturmovik: 1946,2006-12-15,15320,76561197973805396,76561197973805396,2
+['Adventure'],Dracula Origin,2008-05-20,11050,FFRAWR,76561198040723434,641
+"['Adventure', 'RPG']",Sherlock Holmes - Nemesis,2008-04-14,11040,76561198048584625,76561198048584625,265
+"['Action', 'Indie']",Tank Universal,2008-08-21,19200,thornyprick,76561198069788945,13
+['Racing'],FlatOut: Ultimate Carnage,2008-08-19,12360,drvadgers,76561198068868890,34
+['Adventure'],Oddworld: Abe's Exoddus®,1998-11-17,15710,76561198097996886,76561198097996886,73
+['Adventure'],Oddworld: Abe's Oddysee®,1997-12-12,15700,750805,76561198095708135,176
+['Strategy'],X-COM: Apocalypse,1997-07-15,7660,76561198031943764,76561198031943764,5
+['Strategy'],X-COM: UFO Defense,1993-12-31,7760,76561198045187637,76561198045187637,33
+"['Action', 'RPG']",S.T.A.L.K.E.R.: Clear Sky,2008-09-15,20510,PABLOVSKI,76561198067164387,3472
+['Action'],Crysis Warhead®,2008-09-17,17330,76561198018463795,76561198018463795,294
+['Action'],Crysis,2007-11-13,17300,NoObFiGHtEr,76561198032786959,77
+"['Action', 'RPG']",The Witcher: Enhanced Edition Director's Cut,2008-09-16,20900,76561198050876555,76561198050876555,283
+['Indie'],Multiwinia,2008-09-19,1530,76561198026040814,76561198026040814,526
+"['Action', 'Adventure']",LEGO Batman,2008-09-29,21000,N47H4NI3L,76561198039224622,742
+"['Simulation', 'Strategy']",City Life 2008,2008-07-18,4460,maximus2982,76561198087035615,1804
+['Action'],Brothers in Arms: Hell's Highway™,2008-10-08,15390,76561198033164288,76561198033164288,219
+['Racing'],Xpand Rally Xtreme,2006-12-01,3050,waxywings,76561198006145983,182
+['Casual'],Peggle™ Nights,2008-10-15,3540,blackopalandlevi,76561198058645143,10651
+['Indie'],World of Goo,2008-10-13,22000,76561198149898927,76561198149898927,408
+"['Action', 'Simulation', 'Strategy']",X3: Terran Conflict,2008-10-16,2820,Doomsdayvirus1,76561198128804555,988
+"['Casual', 'Indie']",Spectraball,2008-10-20,18300,balaiom,76561198034726053,2
+"['Action', 'Adventure']",Bully: Scholarship Edition,2008-10-21,12200,76561198081148689,76561198081148689,114
+['Action'],Far Cry® 2: Fortune's Edition,2008-10-22,19900,76561198088886304,76561198088886304,0
+"['Action', 'Indie', 'Strategy']",Space Trader: Merchant Marine,2008-10-23,11240,agooglemail,76561198165884782,0
+['Action'],Saints Row 2,2009-01-28,9480,76561198006534186,76561198006534186,0
+['Action'],Dead Space,2008-10-20,17470,76561198056741844,76561198056741844,12
+['RPG'],Rise of the Argonauts,2008-12-16,12770,76561198068572619,76561198068572619,933
+"['Action', 'Adventure']",Mirror's Edge™,2009-01-13,17410,76561198064622636,76561198064622636,513
+"['Indie', 'Strategy']",Defense Grid: The Awakening,2008-12-08,18500,76561198039183543,76561198039183543,995
+['Action'],F.E.A.R. 2: Project Origin,2009-02-12,16450,76561198094506909,76561198094506909,0
+"['Action', 'Indie']",Larva Mortus,2009-03-19,11340,Hyei525,76561198080112902,333
+"['Action', 'Adventure', 'Indie']",Penumbra Overture,2007-03-30,22180,Smileygamer,76561198071382468,394
+['Action'],Unreal Tournament 3 Black,2007-11-19,13210,76561198067209151,76561198067209151,133
+['Racing'],Burnout Paradise: The Ultimate Box,2009-02-03,24740,DeerHunter666,76561198054742584,183
+"['Casual', 'Indie']",Obulis,2009-03-19,11330,76561198119106238,76561198119106238,0
+['Casual'],Puzzle Kingdoms,2009-04-16,23700,76561198064237603,76561198064237603,1020
+['RPG'],Two Worlds Epic Edition,2009-04-30,1930,Karontik,76561198071612898,869
+"['Action', 'Adventure', 'RPG']",X-Blades,2009-02-10,7510,76561198052138028,76561198052138028,37
+"['Action', 'Indie']",Zeno Clash,2009-04-21,22200,cuckox,76561198148074610,125
+"['RPG', 'Strategy']",King's Bounty: The Legend,2008-09-23,25900,SuperBeardMan,76561198025582581,0
+"['RPG', 'Strategy']",Freedom Force,2002-03-26,8880,veritronx,76561197971116715,0
+"['Indie', 'Simulation', 'Strategy']",Light of Altair,2009-06-04,34500,themitchnz,76561197995470508,0
+"['Action', 'Adventure']",Prototype™,2009-06-10,10150,76561198073955516,76561198073955516,2392
+['RPG'],The Elder Scrolls IV: Oblivion® Game of the Year Edition,2007-09-11,22330,76561198037346576,76561198037346576,375
+['RPG'],The Elder Scrolls III: Morrowind® Game of the Year Edition,2002-04-29,22320,76561198072651020,76561198072651020,16697
+['Adventure'],Ankh 2: Heart of Osiris,2007-05-18,12440,76561198095862783,76561198095862783,18
+['Action'],Call of Juarez®: Bound in Blood,2009-06-30,21980,76561198069568536,76561198069568536,763
+['Adventure'],Tales of Monkey Island Complete Pack,2009-07-07,31170,onearmedninja,76561198029419951,233
+['Action'],Street Fighter® IV,2009-07-07,21660,omegaunlocked,76561198084704837,41
+['Adventure'],Indiana Jones® and the Fate of Atlantis™,1992-06-01,6010,76561198095400557,76561198095400557,0
+['Action'],"Star Wars: Battlefront 2 (Classic, 2005)",2005-11-01,6060,xXLeoXx,76561198088765640,20
+"['Action', 'Adventure']",LEGO® Indiana Jones™: The Original Adventures,2008-06-03,32330,76561198060822442,76561198060822442,0
+['Adventure'],The Secret of Monkey Island: Special Edition,2009-07-15,32360,76561198049134396,76561198049134396,3
+['Sports'],3D Ultra™ Minigolf Adventures,2006-12-20,10140,76561197979837382,76561197979837382,37
+['Action'],TimeShift™,2007-10-30,10130,76561198018024046,76561198018024046,0
+"['Simulation', 'Strategy']",Tropico Reloaded,2009-07-24,33520,76561198102157606,76561198102157606,11
+['Action'],Bionic Commando: Rearmed,2008-08-14,21680,76561198037437275,76561198037437275,0
+"['Action', 'Adventure']",Bionic Commando,2009-07-28,21670,76561198047003040,76561198047003040,0
+"['Action', 'Indie']",Foreign Legion: Buckets of Blood,2009-08-04,36000,narasha,76561198296618946,0
+"['Adventure', 'RPG']",STAR WARS™ - Knights of the Old Republic™,2003-11-19,32370,76561198015759079,76561198015759079,2113
+"['Indie', 'Casual']",Osmos,2009-08-18,29180,76561198061904610,76561198061904610,11
+['RPG'],Fallout 2: A Post Nuclear Role Playing Game,1998-12-01,38410,76561198066453606,76561198066453606,171
+"['Adventure', 'Indie']","Time Gentlemen, Please! and Ben There, Dan That! Special Edition  Double Pack",2009-06-22,37400,76561198090449046,76561198090449046,1
+"['Action', 'Racing']",Crash Time 2,2009-08-27,11390,76561198075322986,76561198075322986,22
+"['Action', 'Adventure']",Mini Ninjas,2009-09-08,35000,tehaznshow,76561198100131932,156
+['RPG'],Risen,2009-10-30,40300,avdl,76561198126617091,0
+"['Adventure', 'Indie']",Machinarium,2009-10-16,40700,Eddy_Tan,76561198053601625,0
+['Action'],Medal of Honor: Airborne,2007-09-04,24840,76561198039434430,76561198039434430,305
+['Racing'],Need for Speed: Shift,2009-09-15,24870,76561198024129921,76561198024129921,227
+['RPG'],Torchlight,2009-10-27,41500,alphamone,76561197970525544,209
+['Strategy'],Command &amp; Conquer: Red Alert 3 - Uprising,2009-03-12,24800,crimson_122344,76561198058489523,107
+['Adventure'],Secret Files: Tunguska,2009-10-29,40330,76561198026169067,76561198026169067,72
+"['Action', 'Indie']",Hammerfight,2009-09-19,41100,deepakjb,76561198110342386,0
+"['Action', 'Indie']",Serious Sam HD: The First Encounter,2009-11-24,41000,redcommie,76561198045193021,609
+['RPG'],Dragon Age: Origins,2009-11-06,17450,76561198068148027,76561198068148027,146
+['Action'],Call of Duty®: Modern Warfare® 2,2009-11-12,10180,76561198084390807,76561198084390807,1
+['Adventure'],LEGO® Star Wars™ - The Complete Saga,2009-11-12,32440,elNiggle,76561198053007366,36
+['RPG'],Overlord™,2007-06-26,11450,76561198045214274,76561198045214274,1050
+['Strategy'],Command &amp; Conquer 3: Tiberium Wars,2007-03-28,24790,76561198061091780,76561198061091780,604
+"['Indie', 'Simulation', 'Strategy']",Gratuitous Space Battles,2009-11-16,41800,76561198072460787,76561198072460787,0
+['Action'],STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition,2009-11-03,32430,76561198066117543,76561198066117543,663
+['RPG'],Fallout 3: Game of the Year Edition,2009-10-13,22370,76561198053917005,76561198053917005,2300
+['Casual'],Roogoo,2009-12-17,38210,76561198145945668,76561198145945668,0
+"['Action', 'Adventure']",Devil May Cry 4,2008-07-08,45700,HollowerX,76561198064030845,3010
+"['Action', 'Indie', 'RPG']",Avencast: Rise of the Mage,2010-03-17,46410,archiegaming,76561198064344205,58
+"['Action', 'Indie', 'Racing']",Super Laser  Racer,2010-02-18,44100,76561198041351258,76561198041351258,18
+"['Action', 'Indie']",Serious Sam Classic: The First Encounter,2001-03-21,41050,76561198052921692,76561198052921692,0
+"['Action', 'RPG']",Mount &amp; Blade: Warband,2010-03-31,48700,cythagoras,76561198063510540,5719
+['Action'],Lead and Gold: Gangs of the Wild West,2010-04-08,42120,Daniel5434667,76561198143056807,88
+['Action'],Grand Theft Auto: Episodes from Liberty City,2010-04-12,12220,76561198076052494,76561198076052494,2019
+['Indie'],Fortix,2010-04-14,45400,76561198070066041,76561198070066041,1
+"['Action', 'Casual', 'Indie']",Beat Hazard,2010-04-15,49600,aciliS,76561198075188018,944
+"['Adventure', 'Indie']",The Misadventures of P.B. Winterbottom,2010-04-20,40930,76561198046408007,76561198046408007,228
+['Action'],AquaNox,2001-11-30,39630,76561198089117691,76561198089117691,8
+['Indie'],Max and the Magic Marker,2010-05-12,50820,76561198061149995,76561198061149995,0
+"['Action', 'Indie']",Flight of the Icarus,2010-05-12,49800,76561198100569681,76561198100569681,0
+['Casual'],Puzzler World,2010-05-28,33650,76561198095297673,76561198095297673,530
+"['Action', 'Adventure', 'Casual', 'RPG']",SEGA Mega Drive and Genesis Classics,2010-06-01,34270,76561198075175740,76561198075175740,13
+"['Action', 'RPG']",Alpha Protocol™,2010-06-01,34010,no_blood,76561198083787545,0
+['Action'],Alien Breed: Impact,2010-06-03,22610,Pipocak,76561198083779876,0
+"['Simulation', 'Strategy']",SimCity™ 4 Deluxe Edition,2003-09-22,24780,Panx2,76561198135701972,1222
+"['Casual', 'Indie']",Tidalis,2010-07-16,40420,pyrotato,76561198089418829,0
+['Action'],Kane &amp; Lynch 2: Dog Days,2010-08-17,28000,76561198098898388,76561198098898388,123
+['Action'],Mafia II,2011-03-22,50130,Bballguy111,76561198027465443,1521
+"['RPG', 'Casual']",Puzzle Quest 2,2010-08-12,47540,76561198129934361,76561198129934361,0
+['Simulation'],Ship Simulator Extremes,2010-08-27,48800,cam06,76561198044343671,0
+['Strategy'],Worms Reloaded,2010-08-26,22600,76561198089713177,76561198089713177,147
+"['Indie', 'Simulation', 'Strategy']",Making History II: The War of the World,2010-06-22,46770,76561198099627522,76561198099627522,16758
+['Strategy'],Victoria II,2010-08-30,42960,76561198059080071,76561198059080071,2550
+"['Action', 'Indie']",VVVVVV,2010-09-07,70300,megaware305,76561198052135296,398
+"['Action', 'Adventure', 'Indie']",Amnesia: The Dark Descent,2010-09-08,57300,codes_11,76561198097728341,13
+"['RPG', 'Indie']",Recettear: An Item Shop's Tale,2010-09-10,70400,ly_cheen,76561198056495207,362
+['Simulation'],Hacker Evolution,2010-09-14,70100,siddhugoge,76561198069978442,183
+"['Indie', 'Simulation']",Hacker Evolution: Untold,2010-09-14,70110,meshcollider,76561198092088560,0
+"['Casual', 'Indie']",Faerie Solitaire,2010-09-17,38600,76561198043794090,76561198043794090,0
+['Strategy'],Sid Meier's Civilization® V,2010-09-21,8930,Unplanned_stategy,76561198031111554,14895
+['Action'],Alien Breed 2: Assault,2010-09-22,22650,76561198062315156,76561198062315156,627
+"['Action', 'Adventure']",Darksiders™,2010-09-23,50620,76561198061968112,76561198061968112,37
+['Action'],Medal of Honor™,2010-10-12,47790,76561198019780793,76561198019780793,0
+"['Adventure', 'Casual', 'Indie']",Doc Clock: The Toasted Sandwich of Time,2010-10-15,57800,76561198091378623,76561198091378623,40
+"['Action', 'RPG']",Fallout: New Vegas,2010-10-19,22380,76561198031924053,76561198031924053,38991
+"['Action', 'Indie', 'RPG']",DeathSpank,2010-10-25,18040,76561198047255662,76561198047255662,0
+"['Action', 'Indie']",Shank,2010-10-25,6120,76561198090898982,76561198090898982,1024
+['Action'],STAR WARS™: The Force Unleashed™ II,2010-10-26,32500,PlayZonee,76561198066262353,204
+"['Action', 'Casual']",Flight Control HD,2010-11-18,62000,76561198034108744,76561198034108744,18
+"['Action', 'Casual', 'Indie']",BIT.TRIP BEAT,2010-11-02,63700,76561198081119039,76561198081119039,0
+['Action'],Call of Duty®: Black Ops,2010-11-09,42700,76561198033161894,76561198033161894,8794
+"['Action', 'Adventure', 'Strategy']",Oddworld: Munch's Oddysee,2010-12-20,15740,76561198109850090,76561198109850090,664
+['Adventure'],Back to the Future: The Game,2010-12-23,31290,76561198067136777,76561198067136777,148
+['Action'],Grand Theft Auto III,2002-05-21,12100,76561198036853946,76561198036853946,17
+['Action'],Grand Theft Auto: San Andreas,2005-06-06,12120,76561198074466513,76561198074466513,36
+['Action'],Grand Theft Auto: Vice City,2003-05-13,12110,deleter46,76561198044576609,22
+"['Action', 'Indie']",A.R.E.S.: Extinction Agenda,2011-01-20,92300,76561198086973127,76561198086973127,0
+"['Action', 'Indie', 'Strategy']",APOX,2011-01-20,80000,MotionGaminification,76561198073177807,27
+['Action'],Dead Space™ 2,2011-01-25,47780,Bindalee,76561198208186104,551
+"['Action', 'Strategy', 'Indie', 'Sports']",Monday Night Combat,2011-01-24,63200,Draydian,76561198097882668,20
+['Simulation'],The Sims™ 3,2009-06-02,47890,76561198065370546,76561198065370546,192
+['RPG'],Two Worlds II HD,2011-02-03,7520,spookypotato,76561198038840035,0
+['Racing'],Test Drive Unlimited 2,,9930,76561198057582654,76561198057582654,295
+"['Action', 'Indie']",BIT.TRIP RUNNER,2011-02-28,63710,76561198093377723,76561198093377723,29
+['Action'],Homefront,2011-03-14,55100,76561198052118094,76561198052118094,477
+"['Free to Play', 'Massively Multiplayer', 'RPG']",RIFT,2013-10-24,39120,76561198010395015,76561198010395015,4115
+"['Action', 'Indie', 'Strategy']",Anomaly: Warzone Earth,2011-04-08,91200,AyzeeHawk,76561198039473790,203
+"['Action', 'Indie']",Dino D-Day,2011-04-08,70000,depressionbear,76561198092355700,0
+"['Action', 'Adventure']",Portal 2,2011-04-18,620,76561198075277292,76561198075277292,600
+"['Action', 'Casual', 'Indie', 'Strategy']",Sanctum,2011-04-15,91600,76561198073496299,76561198073496299,10
+['Strategy'],Majesty 2 Collection,2011-04-19,73020,homus,76561198060295949,109
+"['Indie', 'Strategy']",Frozen Synapse,2011-05-26,98200,76561198045024334,76561198045024334,2726
+"['Adventure', 'Casual', 'Indie']",Hamilton's Great Adventure,2011-05-31,42140,JudeIsPretty,76561198101366812,138
+"['Action', 'RPG']",Dungeon Siege III,2011-06-20,39160,gaminat1,76561198072771157,300
+['Action'],Duke Nukem Forever,2011-06-13,57900,76561198045254790,76561198045254790,34
+"['Action', 'Free to Play']",A.V.A. Alliance of Valiant Arms™,2011-06-14,102700,blazythemayordevil,76561198081262349,0
+"['Free to Play', 'Massively Multiplayer', 'RPG']",Champions Online,2009-09-01,9880,76561198068288422,76561198068288422,234
+"['Action', 'Adventure', 'Free to Play', 'Indie', 'Massively Multiplayer', 'RPG']",Spiral Knights,2011-06-14,99900,76561198162056324,76561198162056324,0
+['Strategy'],Magic: The Gathering - Duels of the Planeswalkers 2012,2011-06-15,49470,76561198049923478,76561198049923478,1287
+"['Indie', 'Casual']",Solar 2,2011-06-17,97000,76561198054298960,76561198054298960,164
+['Action'],F.E.A.R. 3,2011-06-21,21100,Aaronlelelele,76561197993090822,44
+"['Action', 'Adventure', 'Indie']",Tobe's Vertical Adventure,2011-07-18,105700,76561198098584474,76561198098584474,0
+['Simulation'],IL-2 Sturmovik: Cliffs of Dover,2011-07-19,63950,ST951,76561198098864931,20
+"['Action', 'Simulation', 'Strategy']",ARMA: Cold War Assault,2011-08-08,65790,76561198060487505,76561198060487505,0
+"['Simulation', 'Strategy']",Tropico 4,2011-09-01,57690,Lynyx,76561198205743865,0
+"['Action', 'Indie']",EDGE,2011-08-11,38740,76561198077172025,76561198077172025,111
+"['Action', 'Indie', 'RPG', 'Strategy']",Space Pirates and Zombies,2011-08-15,107200,AgentXiri,76561198044742654,50
+"['Adventure', 'Casual', 'Free to Play', 'Massively Multiplayer', 'Strategy']",Puzzle Pirates,2011-08-31,99910,jujucucu1,76561198196598002,4
+['Action'],"Warhammer 40,000: Space Marine",2011-09-05,55150,76561198046294246,76561198046294246,378
+['Strategy'],Men of War: Vietnam,2011-09-08,63940,marksman115,76561198063222768,0
+"['Action', 'Indie', 'Racing', 'Strategy']",Rock of Ages,2011-09-07,22230,76561198068723507,76561198068723507,31
+"['Action', 'Massively Multiplayer', 'Simulation']",Red Orchestra 2: Heroes of Stalingrad with Rising Storm,2011-09-13,35450,102547508,76561198049821209,15282
+"['Action', 'Adventure']",Call of Juarez®: The Cartel,2011-09-13,33420,76561198061835817,76561198061835817,381
+"['Action', 'Indie']",Bunch of Heroes,2011-09-21,111400,bautikpo123,76561198069149974,375
+['Strategy'],Supreme Commander: Forged Alliance,2011-09-28,9420,Shadowssoul,76561198082656561,3168
+"['Action', 'Adventure', 'Indie', 'RPG']",The Binding of Isaac,2011-09-28,113200,F4LL14NT,76561198207978701,0
+['Strategy'],Supreme Commander,2007-02-20,9350,Awobabobbob,76561198069758076,0
+"['Casual', 'Simulation', 'Strategy']",Memoir '44 Online,2011-10-12,108210,76561198055775177,76561198055775177,0
+"['Casual', 'Indie', 'Strategy']",Puzzler World 2,2011-10-24,200130,sadfasdfasdfadsfasdf,76561198150403059,0
+"['Simulation', 'Strategy']",Airline Tycoon 2,2011-10-24,201490,flynnchonkonkies,76561198080373204,67
+"['Action', 'Indie']",The Haunted: Hells Reach,2011-10-24,43190,76561198077991546,76561198077991546,158
+['Action'],Saints Row: The Third Initiation Station,2011-11-01,55370,76561198057033715,76561198057033715,14
+['Action'],Sonic Generations Collection,2011-11-03,71340,OzzieAparoid,76561198061419665,2569
+"['Adventure', 'Strategy']",L.A. Noire,2011-11-08,110800,76561198060571370,76561198060571370,306
+['Strategy'],Galactic Civilizations® II: Ultimate Edition,2011-12-02,202200,76561198089360040,76561198089360040,0
+"['Action', 'Free to Play', 'Massively Multiplayer']",APB Reloaded,2011-12-06,113400,76561198069593452,76561198069593452,669
+"['Action', 'Adventure', 'Indie']",Trine 2: Complete Story,2013-06-06,35720,76561198079693942,76561198079693942,471
+"['Action', 'Adventure', 'RPG']",Fable - The Lost Chapters,2011-12-19,204030,76561198073062432,76561198073062432,621
+"['Indie', 'Strategy']",Oil Rush,2012-01-25,200390,76561198086699854,76561198086699854,2
+"['Action', 'Indie']",Serious Sam 2,2005-10-11,204340,76561198156066297,76561198156066297,23
+"['Free to Play', 'Massively Multiplayer', 'RPG']",Star Trek Online,2010-02-02,9900,Hank_Inferno,76561197988705591,1986
+"['RPG', 'Simulation', 'Strategy']",Jagged Alliance - Back in Action,2012-02-08,57740,76561198067425012,76561198067425012,63
+"['Action', 'Casual', 'Indie']",Titan Attacks!,2012-02-03,203210,76561198095766412,76561198095766412,0
+"['RPG', 'Simulation', 'Strategy']",Crusader Kings II,2012-02-14,203770,76561198079335317,76561198079335317,17399
+"['Action', 'Adventure']",Alan Wake,2012-02-16,108710,76561198077117913,76561198077117913,188
+['Action'],Postal III,2011-12-21,10220,76561198061891621,76561198061891621,505
+"['Action', 'Free to Play', 'Indie', 'Massively Multiplayer', 'RPG']",Realm of the Mad God,2012-02-20,200210,76561198095942089,76561198095942089,69
+"['Casual', 'Indie', 'Strategy']",iBomber Defense Pacific,2012-03-01,206690,Hengoo,76561198062082138,0
+"['Casual', 'Indie']",Containment: The Zombie Puzzler,2012-03-02,203560,76561198068542413,76561198068542413,0
+"['Action', 'Adventure', 'Indie']",Wizorb,2012-03-14,207420,VinceMince,76561198057009048,0
+"['Indie', 'Strategy']",Cubemen,2012-03-16,207250,76561198055178403,76561198055178403,39
+"['Adventure', 'Indie', 'Strategy']",Waveform,2012-03-20,204180,76561198081210832,76561198081210832,0
+['RPG'],Risen 2: Dark Waters,2012-04-26,40390,jboekel,76561198073238252,89
+['Action'],Binary Domain,2012-04-27,203750,76561198093751940,76561198093751940,1
+"['Casual', 'Indie', 'Strategy']",Ticket to Ride,2012-05-24,108200,MRWOBEZY,76561198057254035,264
+['Action'],Max Payne 3,2012-05-31,204100,slowed,76561198076367295,532
+"['Free to Play', 'Massively Multiplayer', 'RPG']",The Lord of the Rings Online™,2012-06-06,212500,76561198119899506,76561198119899506,0
+"['Action', 'Adventure', 'Indie', 'RPG', 'Strategy']",Krater,2012-06-12,42170,76561198096104765,76561198096104765,27
+"['Action', 'Adventure', 'Free to Play', 'Massively Multiplayer', 'RPG']",Vindictus,2012-06-22,212160,TheLazyMarco,76561198060778727,0
+"['Indie', 'RPG']",Penny Arcade's On the Rain-Slick Precipice of Darkness 3,2012-06-25,213030,76561198088410602,76561198088410602,0
+"['Action', 'Adventure', 'Free to Play', 'Massively Multiplayer', 'RPG']",Dungeons &amp; Dragons Online®,2012-06-25,206480,paperwind3,76561198050195991,107
+['Action'],Tom Clancy's Ghost Recon: Future Soldier™,2012-06-26,212630,76561198097699089,76561198097699089,1236
+"['Casual', 'Strategy']",Quantum Conundrum,2012-06-21,200010,76561198065436279,76561198065436279,170
+"['Action', 'Free to Play']",Tribes: Ascend,2012-06-27,17080,743748734,76561198180820691,254
+"['Action', 'Indie', 'Casual']",Foreign Legion: Multi Massacre,2012-07-09,205550,76561198053045877,76561198053045877,44
+"['Action', 'Racing']",Death Rally,2012-08-03,108700,76561198067110689,76561198067110689,600
+"['Indie', 'Strategy']",Hero Academy,2012-08-10,209270,76561198095251641,76561198095251641,51
+['Action'],Counter-Strike: Global Offensive,2012-08-21,730,76561198215949741,76561198215949741,38830
+['RPG'],STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™,2005-02-08,208580,76561198299869543,76561198299869543,3163
+['Indie'],Closure,2012-09-07,72000,76561198064244826,76561198064244826,72
+"['Action', 'Adventure']",Batman: Arkham City - Game of the Year Edition,2012-09-07,200260,The_Milk_Man,76561198077895382,2075
+"['Adventure', 'Indie', 'RPG']",To the Moon,2011-11-01,206440,76561198085091150,76561198085091150,333
+"['Action', 'Indie']",Intrusion 2,2012-09-11,214970,76561198070548266,76561198070548266,20
+['Action'],Jet Set Radio,2012-09-19,205950,Darkbandit22,76561198089512781,85
+['Action'],Doom 3: BFG Edition,2012-10-15,208200,76561198295178871,76561198295178871,56
+"['Casual', 'Simulation']",Rocksmith™,2012-10-16,205190,76561198025739343,76561198025739343,1244
+"['Action', 'Indie']",Primal Carnage,2012-10-29,215470,Baf10054,76561198071255458,6552
+"['Strategy', 'Casual']",A Game of Dwarves,2012-10-23,200370,76561198070015563,76561198070015563,47
+"['Action', 'Indie']",Hotline Miami,2012-10-23,219150,redfox5367,76561198064308782,745
+"['Free to Play', 'Massively Multiplayer', 'RPG']",ROSE Online,2012-10-23,215120,76561198056182728,76561198056182728,0
+"['Action', 'Adventure', 'Indie', 'Simulation']",Guns of Icarus Online,2012-10-29,209080,76561198064398473,76561198064398473,0
+"['Action', 'Adventure', 'Indie']",POSTAL 2,2003-04-13,223470,76561198063801812,76561198063801812,100
+"['Action', 'Indie', 'Simulation']",Puddle,2012-11-09,222140,TravyTheTractor,76561198073208785,169
+['Action'],Call of Duty®: Black Ops II,2012-11-12,202970,digitalgateway777,76561198174851581,0
+"['Action', 'Indie']",Stealth Bastard Deluxe,2012-11-28,209190,76561198073886469,76561198073886469,23
+"['Action', 'Adventure', 'Casual', 'Free to Play', 'Massively Multiplayer', 'RPG', 'Simulation']",Mabinogi,2012-12-06,212200,76561198072839397,76561198072839397,0
+['RPG'],Sacred 2 Gold,2012-12-21,225640,dann3993,76561198084798859,41
+"['Action', 'Adventure']",DmC: Devil May Cry,2013-01-24,220440,76561198081233483,76561198081233483,448
+['Simulation'],Cities XL Platinum,2013-02-06,231140,76561198085188253,76561198085188253,249
+['Action'],Tomb Raider - The Final Hours Digital Book,2013-03-07,233410,76561198076024295,76561198076024295,0
+"['Action', 'Racing']",Trials Evolution: Gold Edition,2013-03-21,220160,76561198085874442,76561198085874442,324
+"['Action', 'Indie']",POSTAL,1997-11-14,232770,76561198070494244,76561198070494244,6
+"['Action', 'Adventure']",Resident Evil 6 / Biohazard 6,2013-03-22,221040,76561198073152355,76561198073152355,3480
+"['Indie', 'Strategy']",Cubemen 2,2013-04-08,228440,76561198075410107,76561198075410107,1414
+"['Action', 'Indie', 'Simulation']",Surgeon Simulator,2013-04-19,233720,76561198271002791,76561198271002791,785
+"['Casual', 'Sports']",Poker Night 2,2013-04-26,234710,SKUXXTMG,76561198093809257,20
+"['Action', 'Indie', 'Strategy']",Sanctum 2,2013-05-15,210770,76561198058009305,76561198058009305,199
+"['Indie', 'Simulation', 'Strategy']",Reus,2013-05-16,222730,prettygoodjpg,76561198100415029,5040
+"['Action', 'Adventure']",Remember Me,2013-06-03,228300,76561198004457221,76561198004457221,632
+['Casual'],Cranky Cat,2013-06-05,236290,nomoredupes,76561198095848848,0
+['Strategy'],Company of Heroes 2,2013-06-25,231430,76561198070144566,76561198070144566,624
+['Action'],Mortal Kombat Komplete Edition,2013-07-03,237110,76561198066294848,76561198066294848,0
+"['Action', 'Free to Play']",Soldier Front 2,2013-07-03,239660,76561198202544453,76561198202544453,1
+['Action'],R.I.P.D.: The Game,2013-07-16,237590,skoutznz,76561198090920235,0
+"['Action', 'Adventure']",Saints Row IV: Inauguration Station,2013-08-06,242590,AwesomeEvilGenius,76561198091819659,0
+['Strategy'],Worms Clan Wars,2013-08-15,233840,bolota132,76561198077230144,0
+['Action'],LOST PLANET® 3,2013-08-26,226720,76561198114445977,76561198114445977,1199
+"['Action', 'Free to Play']",America's Army: Proving Grounds,2015-10-01,203290,76561198230825580,76561198230825580,0
+"['Casual', 'Indie', 'Simulation', 'Strategy']",Game Dev Tycoon,2013-08-29,239820,76561198081870185,76561198081870185,5264
+"['Action', 'Adventure', 'Indie']",Outlast,2013-09-04,238320,76561198021141297,76561198021141297,436
+"['Action', 'Adventure']",Portal 2 Sixense Perceptual Pack,2013-09-20,247120,76561198068913152,76561198068913152,4
+"['Action', 'Adventure', 'Casual', 'Strategy']",Scribblenauts Unmasked: A DC Comics Adventure,2013-09-24,249870,HPiN,76561198071841463,201
+"['Casual', 'Simulation']",Farming Simulator 2013 Titanium Edition,2013-10-09,220260,Extreme212,76561198086405708,1173
+"['Free to Play', 'Indie', 'Simulation', 'Sports', 'Early Access']",SNOW,2013-10-10,244930,76561198078414776,76561198078414776,0
+"['Adventure', 'Indie']",The Stanley Parable,2013-10-17,221910,76561198059597735,76561198059597735,107
+['Adventure'],The Wolf Among Us,2013-10-11,250320,76561198066873790,76561198066873790,831
+"['Action', 'Adventure', 'Indie']",Contagion,2013-10-25,238430,76561198072355240,76561198072355240,62
+"['Action', 'Adventure', 'Indie']",Slender: The Arrival,2013-10-28,252330,76561198091792179,76561198091792179,98
+"['Indie', 'RPG', 'Simulation', 'Early Access']",Project Zomboid,2013-11-08,108600,76561198118276505,76561198118276505,1777
+"['Action', 'Indie', 'RPG']",Ring Runner: Flight of the Sages,2013-07-09,258010,lsmS2,76561198199773846,0
+"['Action', 'Adventure', 'Free to Play', 'Massively Multiplayer', 'RPG']",Neverwinter,2013-12-05,109600,magicalpony,76561198248835684,0
+"['Action', 'Indie', 'Strategy']",Insurgency,2014-01-22,222880,celebrexISGO,76561198204334099,0
+"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']",Hero Siege,2014-01-29,269210,76561198081947595,76561198081947595,2925
+"['Adventure', 'Indie']",Serena,2014-01-30,272060,76561198091405182,76561198091405182,18
+"['Action', 'Adventure', 'Indie']",Octodad: Dadliest Catch,2014-01-30,224480,76561198070621274,76561198070621274,694
+"['Adventure', 'RPG', 'Strategy']",Agarest: Generations of War,2014-02-04,237890,Oersted_the_Hopeful,76561198301155274,0
+"['Casual', 'Free to Play', 'Indie']",The Plan,2013-02-10,250600,76561198057958497,76561198057958497,3
+"['Indie', 'Simulation', 'Strategy']",Banished,2014-02-18,242920,76561198127753114,76561198127753114,982
+"['Indie', 'Simulation']",Scania Truck Driving Simulator,2012-06-12,258760,76561198103139418,76561198103139418,973
+"['Adventure', 'Free to Play', 'Indie', 'RPG']",Heroine's Quest: The Herald of Ragnarok,2014-03-20,283880,76561198090908006,76561198090908006,0
+"['Free to Play', 'Indie', 'Massively Multiplayer', 'RPG']",Villagers and Heroes,2014-04-17,263540,76561198072645510,76561198072645510,1
+['Racing'],Mashed,2004-06-25,281280,76561198071392968,76561198071392968,4
+"['Action', 'Indie']",You Have to Win the Game,2012-05-06,286100,76561198152638180,76561198152638180,10
+"['Action', 'Free to Play', 'Indie']",Fistful of Frags,2014-05-09,265630,76561198107719371,76561198107719371,446
+"['Adventure', 'Indie']",Coma: Mortuary,2014-05-12,293320,tntnguyen03,76561198073907926,0
+"['Action', 'Adventure', 'Casual', 'Indie']",BattleBlock Theater®,2014-05-15,238460,76561198037212188,76561198037212188,263
+"['Action', 'Free to Play', 'Indie', 'Strategy']",Toribash,2006-03-01,248570,76561198063772753,76561198063772753,22
+"['Action', 'Adventure', 'Indie', 'Simulation', 'Early Access']",The Forest,2014-05-30,242760,76561198107278710,76561198107278710,464
+"['Action', 'Casual', 'Indie']",Galactic Arms Race,2014-05-31,249610,76561198059701187,76561198059701187,0
+"['Action', 'Indie', 'Massively Multiplayer', 'RPG', 'Simulation']",Nether: Resurrected,2014-06-05,247730,76561198118926584,76561198118926584,1993
+"['Adventure', 'Indie']",Reversion - The Escape (1st Chapter),2012-03-21,270570,76561198070357714,76561198070357714,67
+"['Indie', 'Simulation', 'Strategy']",Xenonauts,2014-06-16,223830,MakinItRain,76561198177984151,0
+"['Action', 'Free to Play', 'Massively Multiplayer']",Warface,2014-07-01,291480,joaquinmoratillo,76561198075122493,381
+['Strategy'],Magic 2015 - Duels of the Planeswalkers,2014-07-16,255420,76561198148988655,76561198148988655,622
+['Utilities'],EVGA Precision XOC,2014-09-19,268850,76561198262719220,76561198262719220,1
+"['Action', 'Indie']",Vertical Drop Heroes HD,2014-07-25,311480,76561198220049151,76561198220049151,0
+['RPG'],The Legend of Heroes: Trails in the Sky,2014-07-29,251150,OfficiaIChlLi,76561198256579801,0
+"['Action', 'Adventure', 'Free to Play', 'Indie']",The Expendabros,2014-08-05,312990,76561198069399868,76561198069399868,56
+"['Action', 'Simulation']",Echelon: Wind Warriors,2004-02-03,311100,76561198147173281,76561198147173281,0
+"['Action', 'Adventure', 'Free to Play', 'Indie', 'Massively Multiplayer', 'RPG', 'Strategy']",Divine Souls F2P MMO,2014-08-15,300040,76561198066822386,76561198066822386,0
+"['Adventure', 'Indie']",The Journey Down: Chapter Two,2014-08-25,262850,MeloncraftLP,76561198272487068,799
+"['Casual', 'Free to Play', 'Indie', 'Massively Multiplayer', 'Strategy']",My Lands: Black Gem Hunting,2014-09-16,290730,76561198084489655,76561198084489655,0
+"['Adventure', 'Free to Play', 'Massively Multiplayer', 'RPG', 'Strategy']",WAKFU,2014-09-18,215080,76561198054741520,76561198054741520,0
+"['Action', 'Casual', 'Free to Play', 'Massively Multiplayer']",Counter-Strike Nexon: Zombies,2014-10-07,273110,76561198218877443,76561198218877443,1811
+['Action'],Killing Floor - Toy Master,2014-10-16,326960,76561198083199307,76561198083199307,0
+['Simulation'],Farming Simulator 15,2014-10-30,313160,76561198049558719,76561198049558719,3018
+['Action'],The Binding of Isaac: Rebirth,2014-11-04,250900,76561198093452976,76561198093452976,6873
+"['Free to Play', 'Strategy']",Lambda Wars Beta,2014-12-05,270370,76561198044896080,76561198044896080,0
+"['Action', 'Casual', 'Indie', 'Racing', 'Sports']",SpeedRunners,2016-04-19,207140,76561198072499322,76561198072499322,2729
+"['Action', 'Free to Play', 'Early Access']",BLOCKADE 3D,2014-11-05,302830,76561198088094255,76561198088094255,272
+"['Casual', 'Free to Play', 'Indie', 'Simulation']",Among Ripples,2015-01-22,341720,76561198103198273,76561198103198273,179
+"['Adventure', 'Indie', 'Early Access']",Stranded Deep,2015-01-23,313120,76561198093718935,76561198093718935,29
+"['Action', 'Free to Play']",Boring Man - Online Tactical Stickman Combat,2014-04-04,346120,76561198069600169,76561198069600169,0
+"['Free to Play', 'Massively Multiplayer', 'RPG']",ArcheAge,2015-03-26,304030,76561198050055248,76561198050055248,0
+"['Action', 'Free to Play', 'Indie']",Fortress Forever,2007-09-13,253530,HenryCT,76561198048914936,47
+"['Action', 'Adventure', 'Free to Play']",Half-Life 2: Update,2015-03-27,290930,crothersgames,76561198140748360,0
+"['Casual', 'Free to Play', 'Indie']",AdVenture Capitalist,2015-03-30,346900,76561198189411546,76561198189411546,1583
+"['Action', 'Casual', 'Free to Play', 'Massively Multiplayer', 'Sports']",Freestyle 2: Street Basketball,2015-04-01,339610,-kainey9777,76561198225075284,0
+"['Action', 'Free to Play', 'Massively Multiplayer', 'RPG', 'Early Access']",Survarium,2015-04-02,355840,76561198194835806,76561198194835806,55
+"['Free to Play', 'Racing', 'Simulation', 'Sports']",Copa Petrobras de Marcas,2014-11-29,359800,76561198070159329,76561198070159329,18
+"['Action', 'Adventure', 'Free to Play', 'Massively Multiplayer', 'RPG']",TERA,2015-05-05,323370,76561198255793714,76561198255793714,0
+"['Adventure', 'Casual', 'Free to Play', 'Indie', 'RPG', 'Simulation', 'Strategy']",Clicker Heroes,2015-05-13,363970,LordOfTheAxes,76561198045561820,55027
+"['Racing', 'Simulation', 'Early Access']",BeamNG.drive,2015-05-29,284160,76561198074133502,76561198074133502,0
+"['Action', 'Indie', 'Racing', 'Sports']",Rocket League®,2015-07-07,252950,JIG0222,76561198065452406,612
+"['Animation &amp; Modeling', 'Video Production']",FaceRig,2015-07-07,274920,Yello532,76561198164392908,8
+"['Casual', 'Free to Play', 'Strategy']",Epic Cards Battle(TCG),2015-07-09,381560,76561198083487976,76561198083487976,1
+"['Free to Play', 'RPG', 'Strategy']",Card Hunter,2015-07-13,293260,76561198213178349,76561198213178349,136
+['RPG'],Skyrim Script Extender (SKSE),2015-08-12,365720,Silvias,76561198040164644,1
+"['Action', 'Free to Play', 'Indie']",Relic Hunters Zero,2015-08-18,382490,76561198073242244,76561198073242244,15
+"['Action', 'Free to Play']",SMITE®,2015-09-08,386360,76561198079240799,76561198079240799,813
+['Utilities'],EasyAntiCheat eSports,2006-09-19,282660,ZertixCSGO,76561198197327995,1629
+"['Indie', 'RPG']",Undertale,2015-09-15,391540,76561198099492950,76561198099492950,1979
+['Simulation'],Train Simulator,2009-07-12,24010,enderhunter_52,76561198079381242,1020
+"['Adventure', 'Casual', 'Free to Play']",Lost Lands: A Hidden Object Adventure,2015-09-24,392950,76561198063914266,76561198063914266,27
+"['Indie', 'Simulation', 'Strategy']",Prison Architect,2015-10-06,233450,FestiveDuckGaming,76561198132727234,3666
+"['Adventure', 'Indie']",The Last Crown: Midnight Horror,2015-10-29,291770,76561198101099343,76561198101099343,11
+"['Action', 'Adventure']",Call of Duty®: Black Ops III,2015-11-05,311210,samw9w8765,76561198193004138,473
+"['Action', 'Adventure', 'Simulation', 'Early Access']",Hurtworld,2015-12-03,393420,76561198038342261,76561198038342261,1014
+"['Action', 'Casual', 'Free to Play', 'Indie']",Sven Co-op,1999-01-19,225840,76561198085312971,76561198085312971,67
+['Action'],Street Fighter V,2016-02-15,310950,76561198059625927,76561198059625927,9313
+"['Action', 'Casual', 'Indie']",Defy Gravity Extended,2016-03-18,96100,JamsL33T,76561198113856053,0
+"['Free to Play', 'Massively Multiplayer', 'RPG']",Tree of Savior (English Ver.),2016-03-28,372000,76561198076191097,76561198076191097,511
+"['Free to Play', 'Indie']",The Way of Life Free Edition,2016-05-31,310370,sundstr_m,76561198245176980,8
+"['Action', 'Adventure', 'Casual', 'Indie', 'RPG']",Starbound,2016-07-22,211820,Dub5,76561198101200375,6280
+"['Action', 'Indie']",Ratz Instagib,2016-07-27,338170,76561198102121026,76561198102121026,37
+"['Action', 'Free to Play', 'Indie', 'Massively Multiplayer']",Heroes &amp; Generals,2016-10-18,227940,76561198051511947,76561198051511947,20168
+"['Action', 'Free to Play', 'Indie', 'RPG', 'Strategy']",Dungeon Defenders II,2017-06-20,236110,76561198222628548,76561198222628548,1222
+"['Action', 'Adventure', 'Free to Play', 'Massively Multiplayer', 'RPG']",Secret World Legends,2017-07-31,215280,76561198067658845,76561198067658845,4780
+"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']",ARK: Survival Evolved,2017-08-29,346110,76561198069691889,76561198069691889,45
+"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'Strategy']",ARK: Survival Of The Fittest,2017-08-29,407530,Scarlet2016,76561198093167035,0
+"['Action', 'Adventure', 'Casual', 'Indie']",Gang Beasts,2017-12-12,285900,76561198308971842,76561198308971842,299
+"['Action', 'Free to Play']",Codename CURE,2017-10-31,355180,LucyLooLoo,76561198296187799,22
+"['Action', 'Free to Play', 'Indie']",Brawlhalla,2017-10-17,291550,76561198046292038,76561198046292038,236
+"['Adventure', 'RPG', 'Strategy']",Divinity: Original Sin 2,2017-09-14,435150,h3ll_bunny,76561198074353296,0
+"['Action', 'Free to Play', 'Indie', 'Massively Multiplayer', 'RPG', 'Simulation']",Robocraft,2017-08-24,301520,76561198074307507,76561198074307507,30
+"['Action', 'Adventure', 'Casual', 'Free to Play', 'Indie']",Unturned,2017-07-07,304930,76561198309031127,76561198309031127,15806
+"['Indie', 'Sports']",Bunny Hop League,2017-04-27,429780,76561198068100397,76561198068100397,12
+"['Indie', 'Simulation', 'Strategy']",Youtubers Life,2016-05-18,428690,Leecie,76561198081026246,124
+"['Casual', 'Simulation']",Rocksmith® 2014 Edition - Remastered,2016-10-04,221680,76561198095750885,76561198095750885,2233
+['Action'],DOOM,2016-05-12,379720,76561197996701683,76561197996701683,1484
+"['Action', 'Casual', 'Indie']",Who's Your Daddy,2015-12-23,427730,76561198074392166,76561198074392166,102
+"['Action', 'Free to Play', 'Strategy']",Bloons TD Battles,2016-04-20,444640,76561198104532151,76561198104532151,159
+"['Free to Play', 'Massively Multiplayer', 'RPG', 'Early Access']",The SKIES,2016-04-16,337950,76561198076114073,76561198076114073,0
+"['Action', 'Adventure', 'Indie']",Out There Somewhere,2016-03-14,263980,76561198095098250,76561198095098250,0
+"['Indie', 'RPG', 'Simulation']",Stardew Valley,2016-02-26,413150,imjacobhd,76561198067592975,1355
+"['Action', 'Adventure', 'Indie', 'RPG']",Grim Dawn,2016-02-25,219990,radbear,76561198092256487,53
+"['Indie', 'Simulation', 'Strategy']",Gnomoria,2016-02-23,224500,76561198119457604,76561198119457604,980
+"['Casual', 'Indie', 'Sports', 'Early Access']",Golf With Your Friends,2016-01-29,431240,76561198052063400,76561198052063400,129
+"['Action', 'Casual', 'Free to Play', 'Indie', 'Simulation']",Red Crucible®: Firestorm,2015-12-22,298240,aumicc,76561198274267195,13
+"['Adventure', 'Indie']",Space Pilgrim Episode I: Alpha Centauri,2015-12-14,429470,76561198028123566,76561198028123566,0
+"['Adventure', 'Casual', 'Free to Play', 'Indie', 'Simulation']",Emily is Away,2015-11-20,417860,76561198066463390,76561198066463390,38
+"['Action', 'Free to Play']",Genesis Online,2015-11-05,409510,76561198081729214,76561198081729214,35
+['RPG'],Fallout 4,2015-11-09,377160,76561198259722859,76561198259722859,43530
+"['Indie', 'Simulation', 'Strategy']",Mini Metro,2015-11-06,287980,wrenchbloke,76561198187524830,979
+['RPG'],Fallout: A Post Nuclear Role Playing Game,1997-09-30,38400,WildernessJulyan,76561198071077819,228
+"['Casual', 'Free to Play', 'Indie', 'Strategy']",Simply Chess,2015-09-11,312280,urmumexdee,76561198263418608,1
+"['Casual', 'Free to Play', 'Indie', 'Strategy']",Let the Cat in,2015-08-27,369400,jaffa-penguin,76561198069094409,4
+"['Action', 'Adventure', 'Free to Play', 'Indie']",Spooky's Jump Scare Mansion,2015-07-28,356670,76561198069220114,76561198069220114,22
+"['Free to Play', 'Strategy']",Magic Duels,2015-07-29,316010,steamlot11,76561198209051089,0
+"['Action', 'Adventure', 'Casual', 'Free to Play', 'Massively Multiplayer', 'RPG']",Trove,2015-07-09,304050,76561198091809731,76561198091809731,3
+"['Casual', 'Free to Play', 'Massively Multiplayer']",Audition Online,2007-04-02,349720,76561198086718157,76561198086718157,188
+"['Action', 'Free to Play']",Dirty Bomb®,,333930,76561198061472798,76561198061472798,9794
+"['Action', 'Adventure', 'Indie', 'RPG']",Forge Quest,2015-05-22,249950,76561198066717699,76561198066717699,255
+"['Action', 'Free to Play', 'Massively Multiplayer', 'Strategy']",Block N Load,2015-04-30,299360,76561198081496836,76561198081496836,14
+"['Action', 'Free to Play']",METAL SLUG DEFENSE,2015-05-01,356310,zielinskak40,76561198194841773,2
+['Indie'],Narcissu 1st &amp; 2nd,2007-05-15,264380,chelsea160402,76561198065819266,0
+"['Indie', 'Simulation']",Kerbal Space Program,2015-04-27,220200,76561198091509635,76561198091509635,5392
+"['Action', 'Free to Play', 'RPG']",The Gate,2015-04-22,350020,76561198054904580,76561198054904580,0
+"['Action', 'Indie', 'Strategy']",Verdun,2015-04-28,242860,76561198093376339,76561198093376339,3330
+"['Action', 'Adventure']",Grand Theft Auto V,2015-04-14,271590,KurisuGaming,76561198295179305,5602
+"['Simulation', 'Strategy']",Cities: Skylines,2015-03-10,255710,76561198063673351,76561198063673351,5649
+"['Action', 'Casual', 'Indie', 'Massively Multiplayer', 'Strategy', 'Early Access']",ShellShock Live,2015-03-11,326460,76561198074200011,76561198074200011,258
+"['Action', 'Adventure', 'Indie', 'Simulation', 'Strategy']",The Escapists,2015-02-13,298630,76561198075371078,76561198075371078,94
+"['Action', 'Free to Play']",Evolve Stage 2,2015-02-10,273350,76561198012600826,76561198012600826,1
+"['Action', 'Adventure']",Life is Strange - Episode 1,2015-01-29,319630,76561198284578233,76561198284578233,0
+"['Free to Play', 'Indie', 'Massively Multiplayer']",Transformice,2015-01-30,335240,76561198098572250,76561198098572250,14214
+"['Indie', 'Simulation', 'Early Access']",Besiege,2015-01-28,346010,76561198179277991,76561198179277991,850
+"['Action', 'Free to Play', 'Indie']",Gear Up,2015-01-28,214420,76561198066459223,76561198066459223,34
+"['RPG', 'Strategy']",Heroes® of Might &amp; Magic® III - HD Edition,2015-01-29,297000,JustMielThings,76561198302374854,677
+"['Action', 'Adventure', 'Free to Play', 'Indie', 'Massively Multiplayer', 'RPG']",8BitMMO,2015-01-26,250420,baconisyourmaster,76561198095664940,0
+['Adventure'],Grim Fandango Remastered,2015-01-26,316790,76561198071808318,76561198071808318,140
+"['Free to Play', 'Strategy']",Kingdoms CCG,2015-01-22,330000,76561198092079246,76561198092079246,49
+['Action'],Saints Row: Gat out of Hell,2015-01-20,301910,76561198201859697,76561198201859697,164
+"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']",Vagante,2014-12-16,323220,76561198068664897,76561198068664897,89
+"['Action', 'Free to Play']",Brick-Force,2012-07-12,335330,76561198090308842,76561198090308842,0
+"['Adventure', 'Free to Play', 'Massively Multiplayer', 'RPG']",School of Dragons,2014-12-04,332070,76561198062549324,76561198062549324,63
+"['Action', 'Massively Multiplayer', 'Racing']",The Crew™,2014-12-01,241560,76561198044226779,76561198044226779,4709
+['Adventure'],Game of Thrones - A Telltale Games Series,2014-12-02,330840,cocainejesus93,76561198073227005,0
+"['Casual', 'Free to Play', 'Indie', 'Massively Multiplayer', 'RPG']",Eldevin,2014-11-05,298160,27649735,76561198209753013,353
+"['Casual', 'Free to Play', 'Indie']",Get Off My Lawn!,2014-11-11,260410,76561198055875098,76561198055875098,488
+"['Action', 'Adventure', 'Indie', 'Racing']",Retro City Rampage™ DX,2014-11-11,204630,76561198120774355,76561198120774355,1
+"['Action', 'RPG']",Lords Of The Fallen™,2014-10-28,265300,76561198049569080,76561198049569080,86
+['Action'],Call of Duty®: Advanced Warfare - Gold Edition,2014-11-03,209650,76561198080804321,76561198080804321,493
+"['Action', 'Free to Play', 'Indie']",Double Action: Boogaloo,2014-10-23,317360,pooldeadlol,76561198078081318,14
+['Strategy'],Sid Meier's Civilization®: Beyond Earth™,2014-10-23,65980,76561198201253170,76561198201253170,13337
+"['Adventure', 'Casual', 'Indie']",Sinister City,2014-10-18,326180,dartagnan__,76561198246989804,0
+['Action'],Alien: Isolation,2014-10-06,214490,Soppro,76561198303816325,0
+['Action'],Quake Live™,2010-08-06,282440,76561198155425199,76561198155425199,440
+"['Free to Play', 'Indie', 'Massively Multiplayer', 'Strategy']",Infinity Wars: Animated Trading Card Game,2014-09-05,257730,Hahneex,76561198218307059,0
+"['Indie', 'Simulation']",Five Nights at Freddy's,2014-08-18,319510,76561198159513738,76561198159513738,98
+['Action'],Ultra Street Fighter® IV,2014-08-07,45760,Itzlncognitoes,76561198095373337,1
+"['Adventure', 'Free to Play', 'Massively Multiplayer', 'RPG', 'Simulation']",Amazing World™,2014-08-07,293500,76561198075478305,76561198075478305,10
+"['Free to Play', 'Massively Multiplayer', 'RPG']",Royal Quest,2014-08-06,295550,76561198082828390,76561198082828390,0
+"['Free to Play', 'Simulation', 'Strategy']",Battle Islands,2014-08-06,305260,76561198126111761,76561198126111761,66
+"['Action', 'Free to Play', 'Indie', 'Massively Multiplayer', 'RPG']",Guns and Robots,2014-08-04,293540,76561198161927668,76561198161927668,0
+"['Indie', 'Simulation', 'Sports']",Mount Your Friends,2014-07-29,296470,dber58,76561198072345762,0
+"['Adventure', 'Free to Play', 'Indie']",Only If,2014-07-25,298260,76561198072199166,76561198072199166,285
+"['Action', 'Free to Play', 'Indie', 'Early Access']",Wild Warfare,2014-07-15,312150,lifebetterer,76561198099532123,0
+"['Action', 'Adventure', 'Casual', 'Free to Play', 'Massively Multiplayer', 'RPG']",Elsword,2014-07-02,237310,76561198060496884,76561198060496884,2516
+"['Adventure', 'Casual', 'Free to Play', 'Massively Multiplayer', 'RPG']",Aura Kingdom,,268420,76561198054840158,76561198054840158,337453
+"['Action', 'Free to Play']",NEOTOKYO,2014-05-01,244630,76561198128714924,76561198128714924,0
+"['Casual', 'Free to Play', 'Indie']",Floating Point,2014-06-06,302380,tomyang1117,76561198062591959,8
+"['Action', 'Adventure', 'Free to Play', 'Simulation', 'Sports']",theHunter Classic,2014-06-03,253710,76561198069246126,76561198069246126,110
+"['Action', 'Free to Play', 'Massively Multiplayer', 'RPG']",Defiance,2014-06-04,224600,StillChong,76561198067810238,0
+['Action'],Wolfenstein: The New Order,2014-05-19,201810,76561198075115013,76561198075115013,22
+"['Free to Play', 'Indie', 'Simulation']",World of Guns: Gun Disassembly,2014-05-21,262410,76561198151855034,76561198151855034,0
+"['Action', 'Indie', 'Simulation']",Turbo Dismount™,2014-05-21,263760,KaraRedd,76561198091048229,1
+"['Action', 'Indie']",RUNNING WITH RIFLES,2015-04-02,270150,76561198221578852,76561198221578852,52
+"['Action', 'Free to Play', 'Indie']",GunZ 2: The Second Duel,2014-05-01,242720,76561198106181731,76561198106181731,497
+"['Action', 'Free to Play', 'Indie']",ArcheBlade™,2014-04-25,207230,76561198074764148,76561198074764148,6
+['Racing'],Trials Fusion™,2014-04-24,245490,76561198107714145,76561198107714145,497
+"['Action', 'Adventure', 'Free to Play', 'Indie']",Thinking with Time Machine,2014-04-18,286080,stormxlol,76561198120587594,0
+"['Action', 'Adventure']",LEGO® The Hobbit™,2014-04-08,285160,Toxic_Crimson_Viper,76561198098253154,0
+"['Casual', 'Indie', 'Simulation']",Goat Simulator,2014-04-01,265930,76561198159701088,76561198159701088,108
+['Indie'],Real Horror Stories Ultimate Edition,2014-04-01,281370,BBiiiirr,76561198204454268,0
+['Action'],Call of Duty®: Ghosts,2014-03-25,209160,76561198090208458,76561198090208458,61
+"['Action', 'Adventure', 'Indie']",Revolution Ace,2014-03-19,274560,keynetgames,76561198252978122,0
+"['Action', 'Free to Play', 'Massively Multiplayer', 'RPG']",City of Steam: Arkadia,2014-03-06,266070,76561198152827059,76561198152827059,21
+"['Action', 'Adventure', 'Free to Play', 'Indie', 'RPG']",Dragons and Titans,2014-03-12,263500,76561198066237911,76561198066237911,1
+"['Action', 'Adventure', 'RPG']",South Park™: The Stick of Truth™,2014-03-03,213670,76561198072285282,76561198072285282,1213
+"['Action', 'Adventure']",The LEGO® Movie - Videogame,2014-02-07,267530,Raider8799,76561198163483521,573
+"['Action', 'Free to Play', 'Indie']",Loadout,2014-01-31,208090,76561198106040785,76561198106040785,1
+"['Action', 'Indie', 'Strategy']",Kingdom Rush,2014-01-06,246420,76561198072896015,76561198072896015,7
+"['Casual', 'Indie']",Grimm,2014-01-06,252150,76561198058703587,76561198058703587,4
+"['Action', 'Indie', 'Massively Multiplayer', 'Early Access']",DayZ,2013-12-16,221100,76561198143242417,76561198143242417,10049
+"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'Early Access']",Rust,2013-12-11,252490,76561198046173323,76561198046173323,1716
+"['Action', 'Indie']",Dead Sky,2013-11-22,259700,76561198078650535,76561198078650535,153
+"['Action', 'Casual', 'Free to Play']",Dungeonland,2013-11-12,218130,76561198083478039,76561198083478039,523
+"['Action', 'Indie']",Intake,2013-11-05,237760,76561198063870581,76561198063870581,6
+"['Action', 'Free to Play', 'Indie']",No More Room in Hell,2011-10-31,224260,76561198098536235,76561198098536235,0
+"['Free to Play', 'Massively Multiplayer', 'RPG']",Ragnarok Online,2003-06-01,215100,76561198093871985,76561198093871985,5
+"['Free to Play', 'Simulation']",Pinball Arcade,2013-11-04,238260,76561198050507061,76561198050507061,50
+"['Simulation', 'Strategy']",Stronghold HD,2001-10-19,40950,76561198079589220,76561198079589220,97
+"['Action', 'Adventure']",LEGO® Marvel™ Super Heroes,2013-10-22,249130,76561198065856028,76561198065856028,3933
+"['Action', 'Adventure']",NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD,2013-10-24,234670,76561198070426487,76561198070426487,640
+"['Action', 'Adventure']",Batman™: Arkham Origins,2013-10-24,209000,72947282842,76561198257767684,69
+"['RPG', 'Strategy']",Gorky 17,1999-12-31,253920,76561198105832212,76561198105832212,0
+['RPG'],Enclave,2003-03-10,253980,LinxyOG,76561198314511739,0
+"['Action', 'Free to Play']",Tactical Intervention,2013-10-08,51100,76561198054739976,76561198054739976,32
+"['Action', 'Simulation', 'Strategy']",Arma 3,2013-09-12,107410,76561198287280974,76561198287280974,97048
+"['Action', 'Adventure', 'Indie']",Huntsman: The Orphanage (Halloween Edition),2013-09-13,246740,76561198106773483,76561198106773483,6
+['Action'],THE KING OF FIGHTERS XIII STEAM EDITION,2013-09-13,222940,76561198064749151,76561198064749151,208
+['Strategy'],Total War™: ROME II - Emperor Edition,2013-09-02,214950,76561198063333579,76561198063333579,2801
+"['Action', 'Adventure']",Saints Row IV,2013-08-19,206420,lt-leb,76561198033916972,60
+"['Action', 'Adventure']",Tom Clancy’s Splinter Cell Blacklist,2013-08-20,235600,caretj,76561198097476257,0
+"['Adventure', 'Indie']","Papers, Please",2013-08-08,239030,kitchenappliancewow,76561198288556235,1227
+"['Action', 'Indie']",Guncraft,2013-08-09,241720,76561198090385340,76561198090385340,48
+"['Action', 'Adventure', 'Indie', 'RPG']",Hammerwatch,2013-08-12,239070,76561198072517781,76561198072517781,80
+"['Action', 'Indie']",Teleglitch: Die More Edition,2013-07-24,234390,76561198077974055,76561198077974055,1368
+['Strategy'],Magic 2014 — Duels of the Planeswalkers,2013-06-26,213850,76561198038762341,76561198038762341,794
+"['Action', 'Indie', 'RPG', 'Simulation', 'Early Access']",Interstellar Marines,2013-07-02,236370,76561198107751338,76561198107751338,36
+"['Racing', 'Simulation', 'Sports']",MotoGP™13,2013-06-20,240600,eddyfry,76561198095932821,1726
+"['Strategy', 'Casual']",Risk,2013-06-10,227920,76561198114810888,76561198114810888,320
+['Strategy'],Wargame: Airland Battle,2013-05-29,222750,76561198098543442,76561198098543442,46
+"['Indie', 'RPG', 'Strategy']",Fallen Enchantress: Legendary Heroes,2013-05-22,228260,76561198242444678,76561198242444678,0
+"['Action', 'Adventure', 'Indie', 'RPG']",Dust: An Elysian Tail,2013-05-24,236090,stocky55,76561198092456597,577
+['Action'],Call of Juarez® Gunslinger,2013-05-22,204450,concarnage,76561198092031378,1432
+"['Action', 'Indie', 'Strategy']",Gunpoint,2013-06-03,206190,76561198069590590,76561198069590590,208
+"['Racing', 'Sports']",GRID 2,2013-05-27,44350,76561198064266109,76561198064266109,80
+['Indie'],FEZ,2013-05-01,224760,76561198080795921,76561198080795921,27
+"['Action', 'Adventure']",Far Cry 3 - Blood Dragon,2013-05-01,233270,76561197992576872,76561197992576872,1670
+"['Free to Play', 'Massively Multiplayer', 'RPG']",Ragnarok Online 2,2013-05-01,231060,76561198058622563,76561198058622563,23552
+"['Casual', 'Indie', 'Racing']",Mini Motor Racing EVO,2013-05-01,209520,76561198079651908,76561198079651908,165
+"['Action', 'Adventure', 'Casual', 'Indie', 'Strategy']",Monaco: What's Yours Is Mine,2013-04-24,113020,76561198096059368,76561198096059368,67
+"['Action', 'Adventure', 'Indie']",Cry of Fear,2013-04-25,223710,76561198073457050,76561198073457050,721
+"['Action', 'Adventure', 'Indie', 'RPG']",ORION: Prelude,2013-04-16,104900,xXBoss1Xx,76561198286931078,864
+['Strategy'],Age of Empires II HD,2013-04-09,221380,littlebear_nz,76561198069664722,8927
+['Action'],ShootMania Storm,2013-04-10,229870,76561198072808192,76561198072808192,5
+"['Casual', 'Indie', 'Strategy']",Dungeon Hearts,2013-03-28,229520,76561198081212721,76561198081212721,5
+"['Free to Play', 'Indie', 'Massively Multiplayer', 'RPG', 'Simulation', 'Strategy']",Kingdom Wars,2013-04-01,227180,76561198240779340,76561198240779340,0
+"['Simulation', 'Strategy']",Cities in Motion 2,2013-04-02,225420,76561198073152634,76561198073152634,541
+"['Action', 'Free to Play']",Warframe,2013-03-25,230410,kamoobro10,76561198263525399,1727
+['Action'],BioShock Infinite,2013-03-25,8870,76561198095471397,76561198095471397,523
+['Indie'],DLC Quest,2013-03-18,230050,76561198075833540,76561198075833540,61
+"['Indie', 'Strategy']",Organ Trail: Director's Cut,2013-03-19,233740,76561198082847677,76561198082847677,307
+['Casual'],Angry Birds Space,2013-03-07,210550,76561198088522695,76561198088522695,6
+"['Indie', 'Simulation']",Euro Truck Simulator,2008-08-06,232010,76561198079334894,76561198079334894,42
+['Action'],Sniper: Ghost Warrior 2,2013-03-11,34870,76561198088639620,76561198088639620,139
+"['Free to Play', 'Massively Multiplayer']",Dungeon-Party,2013-03-13,215870,76561198159031379,76561198159031379,0
+"['Racing', 'Sports']",TrackMania² Canyon,2011-09-14,228760,76561198090332398,76561198090332398,2611
+"['Action', 'Free to Play', 'Massively Multiplayer', 'Simulation']",Star Conflict,2013-02-27,212070,76561198097327790,76561198097327790,98
+"['Free to Play', 'Indie', 'Massively Multiplayer', 'RPG']",Champions of Regnum,2013-02-27,222520,76561198064621816,76561198064621816,40736
+['Action'],Sniper Elite: Nazi Zombie Army,2013-02-28,227100,76561198069241406,76561198069241406,9
+"['Action', 'Adventure']",Tomb Raider,2013-03-04,203160,76561198065718885,76561198065718885,31
+['Action'],The Showdown Effect,2013-03-05,204080,76561198050943947,76561198050943947,53
+"['Action', 'Adventure', 'Strategy']",Brutal Legend,2013-02-26,225260,76561198072754172,76561198072754172,345
+"['Free to Play', 'Racing', 'Simulation', 'Sports']",RaceRoom Racing Experience,2013-02-12,211500,76561198071748761,76561198071748761,40
+"['Casual', 'Indie', 'Simulation']",Bientôt l'été,2013-02-06,229600,76561198070015801,76561198070015801,52
+"['Racing', 'Sports']",Sonic &amp; All-Stars Racing Transformed,2013-01-31,212480,76561198075054497,76561198075054497,703
+"['Adventure', 'Indie']",Antichamber,2013-01-31,219890,76561198083200551,76561198083200551,143
+"['Action', 'Casual', 'Indie', 'RPG']","10,000,000",2013-01-15,227580,76561198086374942,76561198086374942,29
+"['Indie', 'Simulation']",Euro Truck Simulator 2,2013-01-16,227300,76561198064445006,76561198064445006,1811
+"['Action', 'Free to Play', 'Massively Multiplayer', 'RPG']",Dragon Nest,2012-12-18,11610,NotSniperMainMr,76561198185399534,0
+"['Action', 'Indie']",Ace of Spades: Battle Builder,2012-12-12,224540,76561197994893374,76561197994893374,786
+"['Free to Play', 'Massively Multiplayer', 'RPG']",Everquest ®,2012-12-13,205710,76561198226060592,76561198226060592,0
+"['Action', 'Adventure', 'Indie']",Party of Sin,2012-12-13,212700,AssassinTheKiller,76561198102474504,0
+"['Action', 'Indie', 'RPG']",Dead Pixels,2012-12-07,222980,76561198080454250,76561198080454250,59
+"['Action', 'Adventure']",Far Cry 3,2012-12-04,220240,76561198083961822,76561198083961822,285
+"['Action', 'Indie']",Super Hexagon,2012-11-27,221640,76561198095157288,76561198095157288,0
+"['Adventure', 'Casual', 'Indie']",Little Inferno,2012-11-19,221260,76561198071783534,76561198071783534,367
+['Action'],Sonic Adventure 2,2012-11-19,213610,76561198081536842,76561198081536842,537
+"['Adventure', 'Casual', 'Strategy']",Scribblenauts Unlimited,2012-11-19,218680,76561198074356093,76561198074356093,231
+['Action'],Hitman: Absolution™,2012-11-19,203140,76561198154576540,76561198154576540,3290
+"['Action', 'Free to Play', 'Massively Multiplayer']",PlanetSide 2,2012-11-20,218230,phillip-97,76561198084826533,281
+['Adventure'],Assassin’s Creed® III,2012-11-20,208480,76561198083393255,76561198083393255,4791
+"['Action', 'Free to Play', 'Indie', 'Strategy', 'Early Access']",AirMech Strike,2012-11-08,206500,76561198062158594,76561198062158594,5257
+"['Indie', 'RPG', 'Strategy']",Defender's Quest: Valley of the Forgotten (DX edition),2012-10-30,218410,Sandvich4Life,76561198093924569,138
+"['Action', 'Indie', 'Strategy']",Natural Selection 2,2012-10-30,4920,76561198094327568,76561198094327568,385
+"['Adventure', 'Indie']",Pid,2012-10-31,218740,TheHiddenBlade_chile,76561198101259077,40
+"['Action', 'Adventure', 'Indie']",iBomber Attack,2012-11-01,218660,Naytosh,76561198088114725,14
+"['Action', 'Adventure', 'Indie']",Lucius,2012-10-26,218640,76561198071373808,76561198071373808,113
+"['Action', 'Indie', 'Racing']",Zombie Driver HD,2012-10-17,220820,76561198092009904,76561198092009904,20
+"['Casual', 'Free to Play', 'Indie', 'Strategy']",Dwarfs - F2P,2012-10-18,213650,76561198077601248,76561198077601248,230
+"['Action', 'Indie']",Chivalry: Medieval Warfare,2012-10-16,219640,76561198054212632,76561198054212632,320
+"['Action', 'Adventure', 'Indie']",Mark of the Ninja,2012-10-16,214560,76561198078549047,76561198078549047,39
+['Strategy'],Worms Revolution,2012-10-10,200170,Sorefinger,76561198088678067,1089
+"['Action', 'RPG']",R.A.W. Realms of Ancient War,2012-10-11,209730,joshuacowan23,76561198077504222,155
+"['Racing', 'Sports']",GTR - FIA GT Racing Game,2012-09-25,44600,76561198060329028,76561198060329028,243
+"['Action', 'Adventure', 'Indie']",McPixel,2012-09-25,220860,dalilg,76561198027687202,0
+"['Action', 'Adventure']",Dishonored,2012-10-08,205100,76561198064287685,76561198064287685,555
+"['Action', 'Adventure', 'Casual', 'Indie', 'RPG']",Castle Crashers®,2012-09-26,204360,76561198068040902,76561198068040902,9262
+"['Action', 'Casual', 'RPG']",Half Minute Hero: Super Mega Neo Climax Ultimate Boy,2012-09-27,214830,PotatoesBasket,76561198067650820,34
+['Action'],Call of Duty: Black Ops - Mac Edition,2012-09-27,214630,76561198092281449,76561198092281449,1
+"['Casual', 'Simulation']",Dream Pinball 3D,2012-09-19,215790,76561198061643437,76561198061643437,34
+"['Action', 'Adventure', 'Indie', 'RPG']",Torchlight II,2012-09-20,200710,76561198063318130,76561198063318130,809
+['Action'],Dogfight 1942,2012-09-21,217790,76561198071557383,76561198071557383,174
+['Strategy'],XCOM: Enemy Unknown,2012-10-08,200510,soxra,76561198063199565,1658
+"['Action', 'Free to Play', 'Massively Multiplayer', 'RPG']",Continent of the Ninth Seal,2012-09-13,212390,MRXISKI,76561198035999847,0
+"['Indie', 'Simulation', 'Strategy']",FTL: Faster Than Light,2012-09-14,212680,76561198093270673,76561198093270673,885
+"['Action', 'RPG']",Borderlands 2,2012-09-17,49520,76561198066243952,76561198066243952,6780
+"['Racing', 'Simulation', 'Sports']",F1 2012™,2012-09-17,208500,Turbo_Husky,76561198091758520,1476
+"['Adventure', 'Indie', 'Strategy']",The Basement Collection,2012-08-31,214790,76561198092833010,76561198092833010,18
+"['Adventure', 'Indie']",Home,2012-06-01,215670,76561198069352409,76561198069352409,36
+"['Action', 'Indie', 'Strategy']",Shad'O,2012-09-04,215770,TonyMei,76561198070289974,0
+"['Action', 'RPG']",DARK SOULS™: Prepare To Die™ Edition,2012-08-23,211420,76561198084256354,76561198084256354,2424
+"['Action', 'Indie', 'Strategy']",Tiny Troopers,2012-08-24,216110,76561198066592795,76561198066592795,237
+"['Action', 'Free to Play', 'Indie']",Super Crate Box,2010-10-22,212800,76561198071408717,76561198071408717,218
+"['Action', 'Free to Play']",Gotham City Impostors Free to Play,2012-08-30,206210,76561198074529224,76561198074529224,209
+"['Action', 'Indie', 'Strategy']",Tower Wars,2012-08-14,214360,Trinityz,76561198066673439,0
+"['Adventure', 'Indie']",Deponia,2012-08-06,214340,76561198069064695,76561198069064695,27
+"['Strategy', 'Indie', 'Casual', 'Simulation']",Rigonauts,2012-08-07,214100,76561198084459399,76561198084459399,108
+"['Indie', 'Casual']",English Country Tune,2011-11-25,207570,76561198100772096,76561198100772096,13
+"['Casual', 'Free to Play', 'Massively Multiplayer', 'RPG']",MapleStory,2012-08-09,216150,76561198074888672,76561198074888672,1
+"['Action', 'Free to Play', 'Indie', 'Strategy']",Awesomenauts - the 2D moba,2012-08-01,204300,76561198050723809,76561198050723809,1525
+"['Action', 'Adventure', 'Indie', 'RPG']",Wanderlust: Rebirth,2011-06-14,211580,76561198073814411,76561198073814411,0
+"['Action', 'Indie', 'Strategy']",Orcs Must Die! 2,2012-07-30,201790,76561198084863205,76561198084863205,2580
+"['Action', 'Adventure']",Prototype 2,2012-07-24,115320,76561198071474863,76561198071474863,1569
+"['Action', 'Indie']",Kung Fu Strike - The Warrior's Rise,2012-07-24,212030,76561198074640930,76561198074640930,0
+"['Action', 'Free to Play']",Blacklight: Retribution,2012-07-02,209870,alfaNJ,76561198302111845,198
+['Indie'],Adventures of Shuggy,2012-06-13,211440,76561198060740024,76561198060740024,3
+['Indie'],Tiny and Big: Grandpa's Leftovers,2012-06-19,205910,76561198066605030,76561198066605030,186
+['Strategy'],Magic: The Gathering - Duels of the Planeswalkers 2013,2012-06-20,97330,76561198090800960,76561198090800960,17
+"['Action', 'Adventure']",Spec Ops: The Line,2012-06-25,50300,76561198203305963,76561198203305963,519
+"['Indie', 'Strategy']",Sins of a Solar Empire®: Rebellion,2012-06-12,204880,76561198083502021,76561198083502021,7961
+"['Simulation', 'Strategy']",Stronghold 3 Gold,2012-05-25,47400,76561198075260359,76561198075260359,312
+"['Action', 'Adventure']",Alan Wake's American Nightmare,2012-05-22,202750,76561198071703024,76561198071703024,136
+"['Action', 'Simulation']",Thief™ Gold,1998-11-30,211600,niconiconii3,76561198035016834,8
+"['Action', 'Simulation', 'Strategy']",Port Royale 3,2012-05-04,205610,hellguard06,76561198107772436,539
+['Action'],Nexuiz,2012-05-10,96800,76561198053870902,76561198053870902,149
+['Adventure'],Sonic the Hedgehog 4 - Episode II,2012-05-15,203650,76561198062180678,76561198062180678,2139
+['Adventure'],The Walking Dead,2012-04-24,207610,anymartins,76561198077645023,1059
+"['Action', 'Adventure', 'Racing']",Fireburst,2012-04-25,207190,JoshCheetah,76561198087520186,238
+['Strategy'],Warlock - Master of the Arcane,2012-05-08,203630,76561198085813887,76561198085813887,86255
+"['Action', 'Strategy']",Men of War: Condemned Heroes,2012-04-12,204860,jaysterpark,76561198078381176,0
+"['Adventure', 'Indie']",Superbrothers: Sword &amp; Sworcery EP,2012-04-16,204060,76561198066447796,76561198066447796,5
+['RPG'],The Witcher 2: Assassins of Kings Enhanced Edition,2011-05-17,20920,tobyowner,76561198083905703,1299
+"['Free to Play', 'Action', 'Strategy', 'Indie', 'Sports']",Super MNC,2012-04-19,104700,76561198084638666,76561198084638666,0
+['Action'],Sniper Elite V2,2012-04-30,63380,faithisfake,76561198081434167,3849
+"['Free to Play', 'Massively Multiplayer', 'RPG']",Fallen Earth Free2Play,2011-10-12,113420,OfficialLandyy,76561198161885605,0
+"['Action', 'Indie']",Really Big Sky,2012-02-24,201570,76561198081743756,76561198081743756,0
+"['Free to Play', 'Massively Multiplayer', 'Strategy']",Stronghold Kingdoms,2012-02-27,47410,76561198002972612,76561198002972612,155
+"['Action', 'Adventure', 'Indie']",Shank 2,2012-02-07,102840,GFighters,76561198077087280,162
+"['Adventure', 'Indie']",Blackwell Deception,2012-01-13,80360,76561198075922424,76561198075922424,355
+"['Action', 'RPG']",Kingdoms of Amalur: Reckoning™,2012-02-07,102500,76561198019301971,76561198019301971,6518
+['Action'],The Darkness II,2012-02-06,67370,javuri61,76561198089493452,302
+"['Simulation', 'Strategy']",Age of Empires® III: Complete Collection,2009-09-15,105450,76561198075420829,76561198075420829,348
+['Action'],Saints Row: The Third,2011-11-14,55230,deathmuffin2,76561198066456719,2378
+"['Action', 'Indie', 'Casual']",Rochard,2011-11-15,107800,76561198075721977,76561198075721977,14
+['Racing'],Ignite,2011-10-28,45410,76561198038432168,76561198038432168,118
+"['Action', 'Free to Play', 'Massively Multiplayer']",Bloodline Champions,2011-01-13,6370,76561198165711232,76561198165711232,120
+['Simulation'],Take On Helicopters,2011-10-27,65730,76561198070976879,76561198070976879,977
+"['Action', 'RPG']",Lord of the Rings: War in the North,2011-11-01,32800,76561198069690973,76561198069690973,89
+['Strategy'],Worms,1995-10-30,70640,sduce,76561198053216421,0
+"['Action', 'Indie', 'RPG', 'Strategy']",Dungeon Defenders,2011-10-18,65800,rogerrr,76561198056963200,1349
+"['Action', 'Indie']",Lightfish,2011-10-19,116120,76561198061458070,76561198061458070,0
+"['Sports', 'Strategy']",Worms Crazy Golf,2011-10-19,70620,76561198046426102,76561198046426102,327
+['Action'],PAYDAY™ The Heist,2011-10-20,24240,76561198068621601,76561198068621601,40
+"['Action', 'Indie']",Steel Storm: Burning Retribution,2011-05-11,96200,76561198026814630,76561198026814630,0
+['Action'],RAGE,2011-10-03,9200,76561198048496517,76561198048496517,15
+"['Action', 'Indie', 'Strategy']",Orcs Must Die!,2011-10-11,102600,76561198107917480,76561198107917480,0
+"['Action', 'Indie']",Serious Sam Double D XXL,2011-08-30,111600,pastenfelipe,76561198071478202,1
+"['RPG', 'Strategy']",Might &amp; Magic: Clash of Heroes,2011-09-22,61700,76561198076772801,76561198076772801,650
+"['Action', 'Strategy']",Nuclear Dawn,2011-09-26,17710,76561198046718131,76561198046718131,811
+['Strategy'],Worms Ultimate Mayhem,2011-09-28,70600,76561198101325714,76561198101325714,52
+['Strategy'],A Game of Thrones - Genesis,2011-09-29,58550,76561198049573884,76561198049573884,157
+"['Casual', 'Indie']",Blocks That Matter,2011-08-19,111800,darendarenson,76561198071320030,141
+"['Action', 'Indie', 'RPG']",Bastion,2011-08-16,107100,76561198056121488,76561198056121488,231
+"['Adventure', 'Simulation']",From Dust,2011-08-17,33460,peter1023199,76561198060504260,452
+"['Action', 'Indie', 'RPG']",E.Y.E: Divine Cybermancy,2011-07-29,91700,76561198072190369,76561198072190369,0
+"['Adventure', 'Indie']",LIMBO,2011-08-02,48000,76561198060693343,76561198060693343,254
+['Adventure'],Post Mortem,2002-11-01,46550,76561198089024507,76561198089024507,0
+"['Action', 'Adventure', 'Indie']",Gatling Gears,2011-08-30,102810,CaptainEKS,76561198085575802,55
+['Simulation'],Demolition Company Gold Edition,2011-08-04,65270,76561198062187906,76561198062187906,2821
+"['RPG', 'Indie']",Breath of Death VII,2011-07-13,107300,darcy2711,76561198061342988,27
+"['Action', 'Strategy']",Trapped Dead,2011-07-15,46540,76561198044861885,76561198044861885,0
+"['Action', 'Strategy']",Operation Flashpoint: Red River,2011-06-06,44340,zadadrian,76561198005126009,0
+['Action'],Red Faction®: Armageddon™,2011-06-06,55110,76561198051667509,76561198051667509,403
+['Simulation'],Trainz™ Simulator 12,2011-06-08,24670,76561198051820609,76561198051820609,0
+"['Action', 'Indie']",Capsized,2011-04-29,95300,quickmoose896,76561198087858403,86
+"['Casual', 'Indie', 'Simulation']",Universe Sandbox,2011-04-29,72200,76561198063520509,76561198063520509,29
+"['Action', 'RPG']",Mount &amp; Blade: With Fire &amp; Sword,2011-05-03,48720,76561198081114534,76561198081114534,1512
+['Action'],Section 8®: Prejudice™,2011-05-04,97100,76561198072757565,76561198072757565,80
+"['Strategy', 'Indie', 'Casual']",Dwarfs!?,2011-05-04,35480,76561198042245296,76561198042245296,25
+"['Adventure', 'Casual', 'Indie']",The Tiny Bang Story,2011-04-22,96000,76561198106279067,76561198106279067,13
+"['Adventure', 'Indie']",BEEP,2011-05-06,104200,dudumon,76561198070728875,183
+"['Action', 'Adventure', 'Indie', 'Strategy']",Hydrophobia: Prophecy,2011-05-09,92000,76561198085881699,76561198085881699,27
+"['Adventure', 'Casual', 'Indie']",Lume,2011-05-09,105100,kimbunny07,76561198051377743,122
+"['Action', 'Adventure', 'Indie', 'RPG']",Terraria,2011-05-16,105600,76561198083226897,76561198083226897,12932
+"['Action', 'Free to Play']",BRINK,2011-05-09,22350,76561198073266951,76561198073266951,851
+"['Indie', 'Strategy']",DETOUR,2011-05-16,92100,00810cccyyykkk,76561198084667276,0
+['Adventure'],Syberia II,2004-03-30,46510,76561198014359253,76561198014359253,0
+"['Action', 'Indie']",Naval Warfare,2011-05-25,98500,76561198044304918,76561198044304918,1
+"['Indie', 'Strategy']",iBomber Defense,2011-05-26,104000,27dnguyen,76561198085935015,0
+"['Casual', 'Indie']",Fortix 2,2011-05-06,45450,sirsonfenaenzo,76561198064935134,83
+"['Casual', 'Indie', 'Strategy']",NightSky,2011-03-01,99700,76561198086996214,76561198086996214,0
+"['Indie', 'Simulation']",SpaceChem,2011-03-02,92800,76561198084066563,76561198084066563,75
+['Action'],Space Channel 5: Part 2,2011-03-04,71260,76561198058096756,76561198058096756,274
+"['Sports', 'Simulation']",SEGA Bass Fishing,2011-03-04,71240,sanuk_games,76561198078576431,20
+"['Action', 'Racing']",Post Apocalyptic Mayhem,2011-03-17,91900,76561198038555019,76561198038555019,1
+"['Action', 'Adventure']",Assassin’s Creed® Brotherhood,2011-03-22,48190,76561198100384350,76561198100384350,184
+['Action'],Crysis 2 - Maximum Edition,2011-03-22,108800,ArmouredForBattle,76561198325896496,283
+"['Action', 'Adventure']",LEGO® Star Wars™ III - The Clone Wars™,2011-03-22,32510,taplit06,76561198063993065,638
+['Racing'],Shift 2 Unleashed,2011-03-29,47920,OnIy_human,76561198054482771,100
+"['Action', 'Casual', 'Indie', 'Strategy']",HOARD,2011-04-04,63000,76561198035989153,76561198035989153,49
+['Simulation'],Cities in Motion,2011-02-22,73010,76561198062630916,76561198062630916,19
+['Simulation'],Agricultural Simulator 2011: Extended Edition,2011-02-23,92900,FranLOL,76561198062900215,49
+['Strategy'],Men of War: Assault Squad,2011-02-24,64000,CrAzYNordie,76561198072755767,8077
+['Action'],Painkiller Redemption,2011-02-25,65560,matheus0173,76561198189854528,38
+"['Action', 'RPG']",Magicka,2011-01-25,42910,76561198072077473,76561198072077473,499
+"['Action', 'Strategy', 'Indie', 'Casual']",Swords and Soldiers HD,2010-12-02,63500,yoshi_bilby,76561198094054291,646
+"['Casual', 'Indie', 'Strategy']",RUSH,2010-12-03,38720,Chinonso2,76561198172589469,1
+['Strategy'],Greed Corp,2010-12-10,48950,devilsden3,76561198064312334,124
+['Racing'],Need For Speed: Hot Pursuit,2010-11-16,47870,euzi,76561198074141366,831
+"['Action', 'Free to Play', 'Massively Multiplayer', 'RPG', 'Strategy']",EVE Online,2003-05-06,8500,DoaFapbeforeaNap,76561198053143446,75
+['Strategy'],Guardians of Graxia,2010-11-10,90500,76561198068023959,76561198068023959,0
+"['Indie', 'Casual']",Zen Bound 2,2010-11-16,61600,76561198043809073,76561198043809073,239
+"['Casual', 'Sports']",Poker Night at the Inventory,2010-11-22,31280,76561198082959786,76561198082959786,213
+"['Indie', 'RPG', 'Strategy']",Depths of Peril,2007-09-05,23600,76561198040633290,76561198040633290,270
+['Racing'],MX vs. ATV Reflex,2010-11-26,55140,76561198082474729,76561198082474729,2865
+['Indie'],Super Meat Boy,2010-11-30,40800,76561198092415778,76561198092415778,468
+['Racing'],nail'd,2010-11-30,40380,ilovemytruelove,76561198104085180,68
+['RPG'],Dragon Age: Origins - Ultimate Edition,2010-10-26,47810,aarcanicuss,76561198056946489,1173
+"['Action', 'Adventure', 'Indie']",Tommy Tronic,2010-10-28,41660,76561198072455967,76561198072455967,3
+"['Sports', 'Strategy']",Blood Bowl® Legendary Edition,2010-10-28,58520,76561198010061823,76561198010061823,316
+['Simulation'],Farming Simulator 2011,2010-10-29,90200,76561198072361871,76561198072361871,731
+"['Action', 'Adventure']",Dead Rising® 2,2010-09-27,45740,76561198077456763,76561198077456763,140
+"['Action', 'Indie']",ProtoGalaxy,2010-10-06,60600,76561198106325217,76561198106325217,0
+"['Adventure', 'Casual']",Riven: The Sequel to MYST,1997-10-29,63610,dankwankcho,76561198055684430,204
+['Indie'],eversion,2010-06-07,33680,76561198070633248,76561198070633248,60
+"['Action', 'Adventure']",Prince of Persia: The Forgotten Sands™,2010-06-08,33320,doyouhavejam,76561198070341138,330
+"['Action', 'Indie']",DogFighter,2010-06-14,42500,Carlos926,76561198089394458,0
+['Action'],Sniper: Ghost Warrior,2010-06-24,34830,deathclef,76561198059361253,234
+"['Casual', 'Indie']",Puzzle Dimension,2010-06-21,57200,76561198066316646,76561198066316646,0
+['Simulation'],Rig n Roll,2010-06-04,46370,76561198080368480,76561198080368480,11
+['Action'],Day of Defeat: Source,2010-07-12,300,doctr,76561198002099482,1131
+['Strategy'],Future Wars,2010-04-07,46440,76561198093876905,76561198093876905,9
+['Action'],Chaser,2003-08-22,39670,76561198076664452,76561198076664452,236
+"['Action', 'Adventure']",LEGO Harry Potter: Years 1-4,2010-06-25,21130,76561198083049918,76561198083049918,552
+"['Action', 'Simulation', 'Strategy']",Arma 2: Operation Arrowhead,2010-06-29,33930,76561198078209547,76561198078209547,7641
+['Action'],F.E.A.R.,2005-10-17,21090,educASIAN,76561198041035760,72
+['Strategy'],STAR WARS™ Empire at War - Gold Pack,2006-02-16,32470,76561198092274758,76561198092274758,0
+['Strategy'],Napoleon: Total War™,2010-02-25,34030,76561198031207016,76561198031207016,2384
+['Action'],Battlefield: Bad Company™ 2,2010-03-02,24960,76561198075694490,76561198075694490,243
+['Strategy'],Supreme Commander 2,2010-03-01,40100,76561198022095288,76561198022095288,36490
+['Racing'],Sonic &amp; SEGA All-Stars Racing,2010-03-03,34190,bkbk2,76561198050557204,0
+['Simulation'],Silent Hunter 5®: Battle of the Atlantic,,48110,76561198015981146,76561198015981146,3856
+"['Action', 'Adventure']",Assassin's Creed 2 Deluxe Edition,2010-03-09,33230,iareasdaft,76561198060304638,1648
+"['Action', 'Adventure']",Just Cause 2,2010-03-23,8190,76561198170198366,76561198170198366,115
+['Strategy'],"Warhammer® 40,000: Dawn of War® II Chaos Rising",2010-03-10,20570,CAPTAINVRITRAS,76561198072346152,430
+"['Action', 'Indie']",Shatter,2010-03-15,20820,LegionFTW,76561198042147071,0
+['Strategy'],Command &amp; Conquer 4: Tiberian Twilight,2010-03-16,47700,76561198092362090,76561198092362090,340
+"['Casual', 'Simulation']",My Tribe,2008-11-28,51010,76561198122431305,76561198122431305,1852
+['Casual'],Unwell Mel,2009-03-26,51020,76561198067720689,76561198067720689,42
+"['Action', 'Indie']",Booster Trooper,2010-04-16,27920,76561198045066271,76561198045066271,0
+"['Action', 'Indie', 'Racing', 'Sports']",Zero Gear,2010-01-12,18820,apietox,76561198147823223,40
+"['Action', 'RPG']",Greed: Black Border,2010-01-13,46400,76561198085773013,76561198085773013,0
+['Action'],Aliens versus Predator Classic 2000,2000-03-28,3730,76561198065477704,76561198065477704,282
+['RPG'],Mass Effect 2,2010-01-26,24980,76561198038335636,76561198038335636,0
+"['Casual', 'Indie']",Toki Tori,2010-01-28,38700,76561198066902249,76561198066902249,650
+"['Casual', 'Indie']",Secret of the Magic Crystals,2010-02-03,45100,RATmasterfy,76561198076110743,0
+['Action'],Aliens vs. Predator™,2010-02-16,10680,76561198079961670,76561198079961670,1062
+['Action'],BioShock® 2,2010-02-09,8850,0rangeZ3r0,76561198052669139,322
+"['Action', 'Adventure']",Lost Planet: Extreme Condition Colonies Edition,2010-02-11,45720,76561198103387994,76561198103387994,1
+['Action'],Left 4 Dead 2,2009-11-16,550,97396295,76561198090575193,13226
+['Action'],Rogue Warrior,2009-12-01,22310,76561198039710221,76561198039710221,1264
+"['RPG', 'Strategy']",King's Bounty: Armored Princess,2009-11-19,3170,76561198031753722,76561198031753722,1
+"['Action', 'RPG']",Gothic® 3,2006-10-13,39500,76561198047272769,76561198047272769,61
+"['Action', 'Free to Play', 'Indie']",Altitude,2009-12-04,41300,76561198036723888,76561198036723888,27
+"['Adventure', 'Casual', 'Indie']",Samorost 2,2009-12-10,40720,sledski,76561197971172394,0
+"['Action', 'Simulation']",Project Freedom,2009-10-14,34810,76561198060804218,76561198060804218,54
+['Simulation'],Combat Wings: Battle of Britain,2009-10-14,34820,76561197999903293,76561197999903293,330
+"['Indie', 'Simulation', 'Sports']",Cricket Revolution,2009-10-28,25500,qldmaroon7,76561198051375476,214
+"['Indie', 'Strategy']",AI War: Fleet Command,2009-10-21,40400,76561198047755891,76561198047755891,62
+"['Action', 'Indie', 'Racing', 'Sports']",Metal Drift,2009-10-22,32200,76561198047948105,76561198047948105,1380
+"['Action', 'RPG']",Borderlands,2009-10-26,8980,zile98,76561198062673980,1972
+['Action'],Operation Flashpoint: Dragon Rising,2009-10-06,12830,76561198151519460,76561198151519460,49
+"['Simulation', 'Strategy']",Tropico 3,2009-10-20,23490,Splifz,76561198061843387,8
+['Action'],Red Faction Guerrilla Steam Edition,2009-09-15,20500,76561198081019354,76561198081019354,37
+"['Action', 'Adventure']",Resident Evil™ 5/ Biohazard 5®,2009-09-15,21690,76561198077561487,76561198077561487,2241
+['Action'],STAR WARS™ Jedi Knight: Dark Forces II,1997-10-09,32380,76561198043831228,76561198043831228,1
+['Action'],STAR WARS™ Jedi Knight - Mysteries of the Sith™,1998-01-31,32390,76561198045391389,76561198045391389,90
+['Action'],STAR WARS™ Jedi Knight II - Jedi Outcast™,2003-09-16,6030,76561198069931339,76561198069931339,20
+['Action'],STAR WARS™ Jedi Knight - Jedi Academy™,2003-09-16,6020,76561198078043002,76561198078043002,344
+"['Action', 'Adventure']",Twin Sector,2009-09-16,27900,parametros,76561198085845760,20
+['Action'],MDK,1997-05-01,38450,beuy,76561197970269644,29
+['Indie'],Madballs in Babo:Invasion,2009-09-17,25700,76561198072659894,76561198072659894,330
+"['Action', 'Indie', 'Sports']",AaAaAA!!! - A Reckless Disregard for Gravity,2009-09-03,15520,76561198030137059,76561198030137059,71
+"['Action', 'Indie']",Nation Red,2010-08-23,39800,edgar_its_the_popo,76561198044591852,99
+"['Strategy', 'Simulation']",Majesty Gold HD,2001-03-23,25990,76561198011431696,76561198011431696,0
+['Adventure'],Sherlock Holmes: The Awakened - Remastered Edition,2008-09-23,11140,76561198043299193,76561198043299193,182
+['Strategy'],Hearts of Iron III,2009-08-07,25890,wangxihua9999,76561198047111359,15
+"['Action', 'Adventure']",Batman: Arkham Asylum Game of the Year Edition,2010-03-26,35140,76561198086810348,76561198086810348,3731
+['Simulation'],Diner Dash:® Hometown Hero™,2009-08-12,37240,76561198044517070,76561198044517070,122
+"['Adventure', 'Indie']",Nikopol: Secrets of the Immortals,2008-09-07,11370,curtiits,76561198088644655,0
+['Action'],Sniper Elite,2005-10-18,3700,76561197972254490,76561197972254490,498
+['Strategy'],Order of War™,2009-09-22,34600,76561198024886663,76561198024886663,653
+['Casual'],Tradewinds Classics,2009-07-17,36100,76561198022416904,76561198022416904,0
+['Indie'],Bad Rats: the Rats' Revenge,2009-07-20,34900,76561198070706154,76561198070706154,0
+['Adventure'],LOOM™,1990-01-01,32340,76561198074972326,76561198074972326,52
+"['Action', 'Simulation']",STAR WARS™ Starfighter™,2002-01-21,32350,76561198048761092,76561198048761092,15
+['Action'],STAR WARS™ Republic Commando™,2005-03-01,6000,76561198047693395,76561198047693395,226
+['Strategy'],Supreme Ruler 2020 Gold,2008-06-17,25910,76561198040581921,76561198040581921,12061
+['Strategy'],Evil Genius,2004-09-28,3720,76561198078073130,76561198078073130,1
+"['Action', 'Simulation', 'Strategy']",Arma 2,2009-06-29,33900,76561198073328251,76561198073328251,5
+"['Action', 'Adventure', 'Indie']",Trine Enchanted Edition,2009-07-02,35700,76561198058964311,76561198058964311,0
+['RPG'],Overlord II,2009-06-23,12810,76561198087693951,76561198087693951,0
+['Indie'],Chains,2008-11-25,11360,michaelpfuzz,76561198048353529,0
+['Simulation'],F-16 Multirole Fighter,1998-10-06,32720,NoNaMe_2NV,76561197974999450,23
+['Strategy'],Men of War™,2009-05-06,7830,76561198018143961,76561198018143961,1013
+['Action'],Killing Floor,2009-05-14,1250,DeDroidUreLookin4,76561198065666007,250
+"['Action', 'Adventure']",Damnation,2009-05-22,12790,gabrielspency,76561198073004996,759
+"['Action', 'Indie', 'RPG']",Zombie Shooter,2007-12-29,33130,76561198093261921,76561198093261921,0
+"['Casual', 'Indie', 'Simulation', 'Strategy']",Restaurant Empire II,2009-05-27,32900,76561198065758466,76561198065758466,0
+"['Action', 'Strategy']",Battlestations Pacific,2009-05-12,8170,76561198063714917,76561198063714917,390
+['Action'],Velvet Assassin,2009-05-01,16720,BankBunk,76561198094693305,0
+['Strategy'],Plants vs. Zombies GOTY Edition,2009-05-05,3590,76561198067716040,76561198067716040,986
+['Action'],Judge Dredd: Dredd vs. Death,2005-02-28,3710,s414,76561198142393166,0
+['Strategy'],Company of Heroes: Tales of Valor,2009-04-08,20540,76561198023139544,76561198023139544,4
+"['Casual', 'Strategy']",Flock!,2009-04-07,21640,76561198037980630,76561198037980630,8
+"['Casual', 'Indie', 'Strategy']",Braid,2009-04-10,26800,76561198070633323,76561198070633323,7
+"['Indie', 'Casual']",Cogs,2009-04-14,26500,Faibl,76561198039083676,89
+"['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'Strategy']",Caster,2009-03-19,29800,76561198056392326,76561198056392326,356
+['Simulation'],Hospital Tycoon,2007-06-05,11590,karsan,76561198046515295,53
+['Action'],Tom Clancy's Splinter Cell Double Agent®,2006-10-19,13580,76561198050177904,76561198050177904,496
+['Strategy'],"Warhammer 40,000: Dawn of War II",2009-02-18,15620,76561198037888300,76561198037888300,70
+['Strategy'],Empire: Total War™,2009-03-03,10500,76561198065064829,76561198065064829,2381
+"['RPG', 'Indie', 'Casual']",Dangerous High School Girls in Trouble!™,2008-05-14,27400,76561198059948033,76561198059948033,111
+['Strategy'],Tom Clancy's EndWar™,2009-02-25,21800,76561198089098193,76561198089098193,1536
+['RPG'],The Last Remnant™,2009-04-09,23310,76561198050347115,76561198050347115,0
+"['Simulation', 'Strategy']",Grand Ages: Rome,2009-03-20,23450,76561198072752933,76561198072752933,277
+"['Action', 'Adventure', 'Indie']",Penumbra: Black Plague Gold Edition,2009-01-23,22120,76561198011740444,76561198011740444,0
+"['Indie', 'Racing', 'Sports']",Monster Trucks Nitro,2009-01-29,16620,DelichoiceS,76561197979402887,176
+['Strategy'],Europa Universalis III Complete,2007-01-23,25800,bcloudys,76561198064746429,27
+['RPG'],Fallout 3,2008-10-28,22300,76561198200015694,76561198200015694,0
+['Action'],Exodus from the Earth,2008-10-24,12390,76561198028081789,76561198028081789,0
+"['Indie', 'RPG']",Mount &amp; Blade,2008-09-16,22100,76561198062387277,76561198062387277,0
+['Adventure'],Silent Hill Homecoming,2008-11-06,19000,76561197994221341,76561197994221341,1503
+['Action'],Left 4 Dead,2008-11-17,500,76561198039266268,76561198039266268,6
+['Action'],Call of Duty: World at War,2008-11-18,10090,76561198047901097,76561198047901097,4045
+"['Strategy', 'Casual']",Bejeweled Twist,2008-11-18,3560,76561198035993855,76561198035993855,1619
+"['Action', 'Adventure']",Tomb Raider: Underworld,2008-11-21,8140,GLADTOHELP,76561198047640810,12
+"['Action', 'Adventure']",Prince of Persia: The Two Thrones™,2005-12-07,13530,eternalblast1,76561198065485622,340
+"['Action', 'Adventure']",Prince of Persia: Warrior Within™,2004-11-30,13500,alanprais,76561198083538142,0
+"['Action', 'Adventure']",Prince of Persia®: The Sands of Time,2003-12-02,13600,76561198061865945,76561198061865945,695
+"['Action', 'Adventure']",Prince of Persia®,2008-12-10,19980,cakergawd,76561198035841638,116
+['Indie'],Aquaria,2007-12-07,24420,76561198033653052,76561198033653052,135
+"['Action', 'Racing']",Need for Speed Undercover,2008-11-18,17430,76561198015251826,76561198015251826,0
+"['Action', 'RPG']",Mass Effect,2008-05-28,17460,getonmylevelfgt,76561198020407261,2019
+['Simulation'],SPORE™ Creepy &amp; Cute Parts Pack,2008-12-19,17440,premiumbaka,76561198069181280,170
+['Simulation'],SPORE™,2008-12-19,17390,imagoatieatpoo,76561198050771457,2031
+"['Simulation', 'Strategy']",Imperium Romanum Gold Edition,2008-10-30,23400,76561198148944096,76561198148944096,709
+['Racing'],RACE 07: Andy Priaulx Crowne Plaza Raceway (Free DLC),2008-06-19,8650,s345,76561198262250208,0
+"['Action', 'Adventure']",Insecticide Part 1,2008-06-27,16710,Nanananaaa,76561198065858017,3
+"['Action', 'RPG']",Sacred Gold,2006-08-14,12320,76561198066889774,76561198066889774,0
+['Action'],Tom Clancy's Ghost Recon®,2001-11-13,15300,brandon8890,76561198066427869,0
+"['Indie', 'Casual']",The Wonderful End of the World,2008-01-25,15500,76561198146468235,76561198146468235,205
+['Strategy'],The Settlers®: Heritage of Kings,2005-02-08,15310,76561198069066487,76561198069066487,0
+['Racing'],TrackMania Nations Forever,2008-04-16,11020,76561198072079283,76561198072079283,1
+"['Action', 'Adventure']",Assassin's Creed™: Director's Cut Edition,2008-04-09,15100,turneddreamsintoanempire,76561198122837537,972
+['Action'],Tom Clancy's Rainbow Six® Vegas 2,2008-04-16,15120,76561198018845815,76561198018845815,1577
+['Racing'],Trackmania United Forever Star Edition,2008-04-16,7200,sparkadia,76561198010348540,1342
+['Action'],Portal,2007-10-10,400,76561198051017916,76561198051017916,412
+"['Casual', 'Simulation']",Virtual Villagers: A New Home,2006-07-14,16100,fionnghal16,76561198088951338,464
+"['Casual', 'Simulation']",Plant Tycoon,2007-09-27,16120,LypheLife,76561198088098034,441
+['Action'],Cold Fear™,2005-03-28,15270,76561198001593974,76561198001593974,0
+"['Casual', 'Simulation']",Virtual Villagers: The Lost Children,2007-02-14,16110,76561198045479938,76561198045479938,10517
+['Action'],Tom Clancy's Rainbow Six Lockdown™,2006-02-14,15000,76561198028102934,76561198028102934,14
+['Strategy'],Heroes of Might &amp; Magic V,2006-05-23,15170,76561198073859353,76561198073859353,656
+"['Action', 'Adventure']",Beyond Good and Evil™,2003-11-11,15130,DocWho2,76561198036264199,614
+"['Adventure', 'RPG']","Precipice of Darkness, Episode One",2008-05-21,18000,76561198068655831,76561198068655831,193
+"['Casual', 'Indie', 'Racing']",Gumboy Tournament,2008-05-19,11230,hate_,76561198091701410,0
+"['Indie', 'Racing', 'Sports']",Trials 2: Second Edition,2008-03-01,16600,76561198011898524,76561198011898524,331
+['Indie'],AudioSurf,2008-02-15,12900,76561198068964564,76561198068964564,176
+['Action'],Darkstar One,2006-08-14,12330,rakhalar,76561198020705284,56
+['Action'],Shadowgrounds Survivor,2007-11-14,11200,76561197998812220,76561197998812220,1078
+['Action'],Frontlines™: Fuel of War™,2008-02-27,9460,76561198018784847,76561198018784847,354
+['Strategy'],"Warhammer® 40,000: Dawn of War® - Soulstorm",2008-03-05,9450,76561198105269395,76561198105269395,2192
+['Racing'],RACE 07,2007-10-15,8600,76561198062288797,76561198062288797,0
+['Casual'],Peggle Extreme,2007-09-11,3483,76561198066512672,76561198066512672,0
+"['Indie', 'Simulation', 'Strategy']",Nexus - The Jupiter Incident,2004-11-05,6420,aussiewog,76561198076406573,923
+"['Action', 'Strategy']",Full Spectrum Warrior,2004-09-21,4520,76561198009633329,76561198009633329,372
+"['Action', 'Strategy']",Company of Heroes - Legacy Edition,2006-09-11,4560,76561198019431054,76561198019431054,8
+['Action'],DOOM 3,2004-08-03,9050,76561198013282313,76561198013282313,1024
+['Action'],Quake III Arena,1999-12-05,2200,76561198074561107,76561198074561107,1
+['Action'],QUAKE II,1997-11-11,2320,76561198045486762,76561198045486762,436
+['Action'],Commander Keen,1990-12-14,9180,Bethannephetamine,76561198088310335,5
+['Action'],HeXen: Beyond Heretic,1995-10-01,2360,mrsladyface,76561198035255818,0
+['Action'],Half-Life 2: Episode Two,2007-10-10,420,76561198044411904,76561198044411904,0
+['Action'],Painkiller Overdose,2007-10-30,3270,76561198061723814,76561198061723814,330
+['Action'],Alpha Prime,2007-11-07,2590,YoHuNz,76561198024740070,0
+['RPG'],Loki,2007-10-02,7260,76561198063371927,76561198063371927,49
+['Action'],Call of Juarez™,2007-06-12,3020,76561198059532033,76561198059532033,115
+['Action'],Call of Duty® 4: Modern Warfare®,2007-11-12,7940,lukeyturley,76561198108641918,207
+['Action'],Kane and Lynch: Dead Men™,2007-11-13,8080,76561197994380497,76561197994380497,120
+['Casual'],Geometry Wars: Retro Evolved,2007-03-07,8400,76561198043274212,76561198043274212,2840
+['Action'],Commandos 3: Destination Berlin,2003-10-14,6840,76561198101827787,76561198101827787,849
+['Action'],Just Cause,2006-09-22,6880,dropssdrop,76561198048500278,771
+['Action'],Hitman: Codename 47,2000-11-23,6900,76561198036618113,76561198036618113,2
+['Action'],Hitman 2: Silent Assassin,2002-10-01,6850,45883274,76561198006149002,26
+['Action'],Battlestations: Midway,2007-01-30,6870,76561198040606844,76561198040606844,280
+['Action'],Commandos: Behind Enemy Lines,1998-08-28,6800,908978675645342312,76561198082951035,0
+['Action'],Commandos 2: Men of Courage,2002-08-30,6830,76561198123871714,76561198123871714,25
+['Action'],Hitman: Blood Money,2006-05-30,6860,sisiiik,76561198047046499,2233
+['Action'],Vampire: The Masquerade - Bloodlines,2004-11-16,2600,AlkalineDeath,76561198040467599,458
+"['Action', 'RPG']",S.T.A.L.K.E.R.: Shadow of Chernobyl,2007-03-20,4500,76561198053766465,76561198053766465,1538
+"['Action', 'Strategy']",Joint Task Force,2006-09-12,6400,76561197992755277,76561197992755277,869
+['Action'],Thief: Deadly Shadows,2004-06-11,6980,76561198023903233,76561198023903233,155
+['Action'],Deus Ex: Game of the Year Edition,2000-06-22,6910,76561198068935240,76561198068935240,4
+['Action'],Deus Ex: Invisible War,2004-03-05,6920,76561198005999162,76561198005999162,19
+['Action'],Rogue Trooper,2006-05-23,7020,76561198075636193,76561198075636193,753
+['RPG'],Jade Empire™: Special Edition,2007-02-27,7110,76561198006631865,76561198006631865,4
+"['Casual', 'Indie']",Bullet Candy,2007-02-14,6600,76561197998318890,76561197998318890,0
+['Casual'],Peggle Deluxe,2007-02-27,3480,76561197998613113,76561197998613113,1622
+['RPG'],Silverfall,2007-03-20,4420,76561198027369154,76561198027369154,7
+"['Action', 'Strategy']",Making History: The Calm &amp; the Storm,2007-03-13,6250,76561198014753437,76561198014753437,102
+['Adventure'],"Runaway, A Road Adventure",2003-08-18,7210,76561198002513165,76561198002513165,0
+['Adventure'],"Runaway, The Dream of The Turtle",2007-03-12,7220,76561198048648934,76561198048648934,341
+"['Casual', 'Strategy', 'Indie']",Poker Superstars II,2006-03-01,4100,jdown95,76561198019782246,174
+['Action'],Call of Duty®,2003-10-29,2620,76561198058706736,76561198058706736,0
+['Action'],Psychonauts,2005-04-19,3830,zomboy151,76561198081816492,0
+['Action'],GUN™,2005-11-17,2610,76561198142749308,76561198142749308,86
+['Action'],Call of Duty® 2,2005-10-25,2630,wingzhd,76561198099077473,325
+['Strategy'],Space Empires V,2006-10-16,1690,Madabu09,76561198055321862,28
+['Strategy'],Sid Meier's Civilization® III Complete,2001-10-30,3910,MarbleShrine,76561198062570934,92
+['Strategy'],Sid Meier's Civilization® IV,2005-10-25,3900,76561198068437049,76561198068437049,0
+['Strategy'],688(I) Hunter/Killer,1997-07-04,2900,76561198062378132,76561198062378132,22
+['Action'],BloodRayne 2,2005-08-02,3820,baeritto,76561198138390863,300
+"['Action', 'Indie']",RoboBlitz,2006-11-07,4300,MadameMcThunder,76561198066174858,15
+['Strategy'],Medieval II: Total War™,2006-11-15,4700,76561198141443390,76561198141443390,36
+['Strategy'],Heroes of Annihilated Empires,2006-11-22,4800,Aluriana,76561198047064045,1918
+['Action'],Counter-Strike: Source,2004-11-01,240,NitemarePK,76561197990951820,3529
+['Action'],Half-Life: Source,2004-06-01,280,gdxsd,76561198087667012,285
+['Action'],Half-Life 2: Deathmatch,2004-11-01,320,76561198070194565,76561198070194565,2267
+['Action'],Half-Life 2,2004-11-16,220,themanwich,76561198035296505,219
+['RPG'],Sid Meier's Pirates!,2005-07-11,3920,cadmusthreepointoh,76561198027078629,0
+"['Indie', 'Strategy']",Darwinia,2005-07-14,1500,BlueDragonOfficial,76561198032046112,92
+['Indie'],Rag Doll Kung Fu,2005-10-12,1002,XOffica,76561198028065572,13
+['Action'],Red Orchestra: Ostfront 41-45,2006-03-14,1200,evcentric,76561198007712555,923
+['Strategy'],Space Empires IV Deluxe,2006-02-07,1610,Efreak,76561198008335925,0
+['Strategy'],Dangerous Waters,2006-02-07,1600,Etoka,76561198056849848,34
+['Strategy'],Earth 2160,2006-04-01,1900,DieMadchenschanderin,76561198010679125,194
+['Action'],Shadowgrounds,2006-05-08,2500,76561198132540690,76561198132540690,70
+['Action'],SiN Episodes: Emergence,2006-05-10,1300,duanea85,76561198010112281,279
+['Strategy'],X3: Reunion,2005-11-03,2810,WalrusInSpace,76561198068494125,1677
+['Strategy'],X2: The Threat,2003-12-03,2800,Killerkalf,76561198054802770,16
+['Strategy'],Iron Warriors: T - 72 Tank Command,2006-07-26,1670,bobjimmy007,76561198078867478,184
+"['Indie', 'Strategy']",Uplink,2006-08-23,1510,Govostype0406,76561198100270594,50
+['Racing'],Xpand Rally,2006-08-24,3010,George_the_giraffe,76561198030606264,30
+['Casual'],Heavy Weapon Deluxe,2006-08-30,3410,AvadaKedav,76561198066980798,71
+['Casual'],Typer Shark! Deluxe,2006-08-30,3450,pukoh,76561197994507360,27
+['Casual'],Pizza Frenzy Deluxe,2006-08-30,3430,Vrezerch,76561198226901276,125
+['Casual'],Bejeweled Deluxe,2006-08-30,3350,76561197999698891,76561197999698891,104
+['Casual'],Rocket Mania Deluxe,2006-08-30,3440,76561198006186415,76561198006186415,102
+['Casual'],Feeding Frenzy 2 Deluxe,2006-08-30,3390,76561198028895010,76561198028895010,198
+['Casual'],Zuma Deluxe,2006-08-30,3330,76561198083383461,76561198083383461,29
+['Casual'],Chuzzle Deluxe,2006-08-30,3310,IDGam3r,76561198076271547,8
+['Casual'],Bejeweled 2 Deluxe,2006-08-30,3300,hamfritta,76561198004968304,1
+"['Action', 'RPG']",Dark Messiah of Might &amp; Magic,2006-10-25,2100,-Azsael-,76561197997534851,1456
+['Casual'],Insaniquarium Deluxe,2006-08-30,3320,ElementalGodChaos,76561198069233677,542
+['Action'],Team Fortress Classic,1999-04-01,20,66666669999999,76561198004054805,0
+['Action'],Half-Life: Opposing Force,1999-11-01,50,MinxIsBetterThanPotatoes,76561198004744620,256
+['Action'],Ricochet,2000-11-01,60,76561198079337907,76561198079337907,296
+['Action'],Counter-Strike,2000-11-01,10,76561197970982479,76561197970982479,6
+['Action'],Deathmatch Classic,2001-06-01,40,crazy-joe98,76561198049480047,83
+['Action'],Half-Life: Blue Shift,2001-06-01,130,76561198037509696,76561198037509696,249
+['Action'],Day of Defeat,2003-05-01,30,mimimomoma,76561198098305358,200
+['Action'],Unreal Tournament 2004: Editor's Choice Edition,2004-03-16,13230,76561198045631910,76561198045631910,133
