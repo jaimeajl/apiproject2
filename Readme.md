@@ -1,87 +1,112 @@
-﻿**PROYECTO INDIVIDUAL Nº2**
+﻿**PROYECTO INDIVIDUAL Nº1**
 
-**Telecomunicaciones**
+**Machine Learning Operations (MLOps)**
 
-El Internet tiene una importancia significativa en la sociedad actual y desempeña un papel fundamental en diversas áreas de la vida humana. El Internet ha transformado la forma en que vivimos, trabajamos, nos comunicamos, aprendemos y nos entretenemos. Su importancia radica en su capacidad para conectar a las personas y proporcionar acceso a una gran cantidad de recursos y oportunidades en línea.
+![IA y ML para juegos - Casos de uso y casos prácticos - AWS para videojuegos](Aspose.Words.efa58f4e-8782-431b-92b8-0b217a683388.001.png)
 
-**Objetivo**
+**¡Este es mi primer proyecto individual de la etapa de labs, en mi rol de**  
 
-Realizar un análisis del comportamiento de acceso a internet en el sector de telecomunicaciones. Este análisis permitirá evaluar oportunidades de crecimiento y de mejoramiento del servicio.
+**MLOps Engineer.**
 
-**Contenido**
+***Contexto:*** 
 
-En este trabajo se hace un análisis del comportamiento de accesos a internet, utilizando la información contenida en estos archivos .csv
+Un modelo de recomendación de videojuegos a través de machine learning puede mejorar significativamente la experiencia de los usuarios, aumentar las ventas y la retención de clientes, y proporcionar información valiosa sobre las preferencias de los jugadores para tomar decisiones estratégicas. En este trabajo se implementará un modelo de machine learning que incluye los procesos de Ingeniería de datos que incluye un ETL, el desarrollo de las APIs y un EDA que finaliza en la aplicación de un modelo de predicción deployado.
 
-Internet\_Accesos\_por\_tecnologia.csv: Archivo con la información de Año, Trimestre, Provincia, ADSL, Cablemodem, Fibra óptica, Wireless, Otros, Total.
+***Ingeniería de datos*** 
 
-<a name="_hlk150251358"></a>Internet\_Penetracion.csv: Archivo con la información de Año, Trimestre, Provincia, Accesos por cada 100 hogares.
+Para el trabajo y desarrollo de los procesos de ingeniería de datos se tomaron los siguientes archivos:
 
-Listado\_local\_con\_conec\_internet.csv: Archivo con la información de Provincia, Partido, Localidad, ADSL, Cablemódem, Dial Up, Fibra óptica, 4G, 3G, Telefonía Fija, Wireless, Satelital
+venv: Carpeta que incluye los archivos para creación de un ambiente virtual
 
-**Proceso**
+word2vec\_model: archivo que contiene los vectores de palabras entrenados usando el algoritmo Word2Vec.
 
-1. Se revisa la página web para extraer la información y se identifican las Apis con la información necesaria para desarrollar el proyecto.
-1. El proceso se inicia con un ETL, que inicia con la extracción de los archivos y el ajuste de la información para poder cargarla en Powerbi. 
-1. Se revisa e identificaron las columnas que permitirán resolver el problema u objetivo planteado
-1. Se revisa información faltante, errores en la información y que columnas tienen menos errores
-1. Se hicieron los ajustes necesarios para normalizar los datos y realizar el análisis inicial estadístico y determinar nivel de confianza
-1. Se revisaron valores nulos y faltantes y se les dio tratamiento.
+.gitattributes: archivo de configuración utilizado en el sistema de control de versiones Git
 
-**EDA (Exploratory Data Analysis)**
+dfsteam\_games\_cleaned: archivo con la informacion de géneros, títulos de juegos, precio, desarrollador, entre otros.
 
-Se hicieron varios análisis que incluyeron entre otros análisis de outliers y estadísticas descriptivas. Estos análisis se hicieron con la información de los archivos Internet\_Accesos\_por\_tecnologia.csv, Internet\_Penetracion.csv y Listado\_local\_con\_conec\_internet.csv en las columnas total y Accesos por cada 100 hogares, entre otras.
+user\_reviews: archivo con la información de identificador de usuario y la reviews de los juegos.
 
-**PROCESO POWERBI**
+dfusers\_items: archive con la informacion de tiempo de uso, URL, identificador único de usuario, entre otros.
 
-Se carga información a Powerbi y se hace la verificación de la información ingresada.
+df\_merged: archivo que incluye la información de las columnas: genres, title, release\_date, id, user\_id, steam\_id, playtime\_forever y que vienen de los archivos dfsteam\_games\_cleaned, user\_reviews y dfusers\_items.
 
-Se generan las medidas y columnas necesarias para generar y ver la información de total de accesos, accesos por tecnología, por provincias, entre otros y que sirven para dar forma a la página inicial general y dar contexto a los Kpis definidos.
+df\_merged\_cleanfinal: archivo que incluye la información de las columnas: genres, release\_date, id, user\_id, playtime\_forever, title y la columna sentiment\_analysis
 
-**ANALISIS GENERAL**
+df\_merged\_cleanfinalA: archivo que incluye la información de las columnas: genres, release\_date, id, user\_id, playtime\_forever, title y que deja el primer genero como principal de la columna genres
 
-Para el análisis general se tomó la información del archivo de Internet\_Accesos\_por\_tecnologia.csv, el cual mostro el acceso a internet desde el año 2014 hasta el año 2022. El total de accesos del periodo de años es de 445.460 con un promedio de 515.58.
+EDA-1: archivo que incluye el EDA de la información del archivo df\_merged.
 
-En la primera grafica se evidencia un decrecimiento acentuado desde el año 2016, que en principio es jalonado por un menor uso del servicio a través de fibra óptica.
+Apidesarrollador: archivo con la función def developer( desarrollador : str ): Cantidad de items y porcentaje de contenido Free por año según empresa desarrolladora.
 
-Se muestra dentro del análisis de accesos, que existe un 82.35% de provincias con algún tipo de tecnología que permite el acceso a internet, mientras que hay un 17.65% de provincias que aun no cuenta con algún tipo de acceso.
+Apigenero: archivo con la función def UserForGenre( genero : str ): Debe devolver el usuario que acumula más horas jugadas para el género dado y una lista de la acumulación de horas jugadas por año de lanzamiento.
 
-Por otro lado en cuanto a promedio de cantidad de tecnología por provincia, la provincia de Caba cuenta con 9 tipos de tecnologías, seguidas por Buenos Aires con 4.25 y La Pampa con 4.13.
+Apiano: archivo con la función def best\_developer\_year( año : int ): Devuelve el top 3 de desarrolladores con juegos MÁS recomendados por usuarios para el año dado. (reviews.recommend = True y comentarios positivos)
 
-En cuanto a participación de tecnología, la tecnología 4G representa el 18.51%, seguida por el acceso con tecnología fija con el 16% y con Wireless del 16%.
+Apidesarrolladora: archivo con la función def developer\_reviews\_analysis( desarrolladora : str ): Según el desarrollador, se devuelve un diccionario con el nombre del desarrollador como llave y una lista con la cantidad total de registros de reseñas de usuarios que se encuentren categorizados con un análisis de sentimiento como valor positivo o negativo.
 
-El análisis por trimestre muestra una paridad entre ellos.
+ModeloML: archivo con el modelo de ML de relación ítem-ítem
 
-**Análisis Kpi 1**
+ETL-1: archivo con el ETL realizado a la información de los archivos JSON steam\_games.json, user\_reviews.json y users\_items.json
 
-El kpi 1 propuesto para el análisis del caso que evalúa aumentar en un 2% el acceso al internet para el próximo trimestre, cada 100 hogares por provincia, se encontró que tuvo un 0.65% de cumplimiento para el último trimestre de 2022 incumpliendo con el objetivo del KPI propuesto.
 
-A nivel general se observa un crecimiento en cantidad de hogares con acceso a internet.
 
-El promedio de accesos cada 100 hogares para el periodo fue de 69.03 hogares cada 100.
 
-A nivel general solo 2 provincias superaron la meta propuesta y siete de ellas tuvieron un resultado negativo de un total de 24 provincias.
+***ETL (Extraction, transform y load)***
 
-**Análisis Kpi 2**
+El proceso de ETL consistió en la extracción de la información de los archivos .Json steam\_games.json, user\_reviews.json y users\_items.json, para los cuales se les realizo una verificación de la información y columnas que contenían, se eliminaron las columnas que no son necesarias, una limpieza de valores nulos y una transformación del tipo de datos para asegurar los resultados posteriores. 
 
-Para el Kpi 2 se propone el siguiente: Incremento del 2% en accesos totales para el siguiente año (2022), con respecto al año anterior.
+Adicionalmente se realizaron pruebas para comprobar que los ajustes realizados a la información y a las columnas trajeran los datos correctos en la solicitud y finalmente esta información fue guardada en los archivos .csv dfsteam\_games\_cleaned, user\_reviews y dfusers\_items.
 
-En este caso se evidencia que el resultado fue del -12%, que al observar la grafica de accesos por tecnología año, es jalonado por las tecnologías de Fibra óptica Cable Modem y Otros.
+***Desarrollo de las APIs***
 
-Las únicas tecnologías que mantuvieron su nivel de accesos fueron las de ADSL y Wireless
+Para el desarrollo de las Apis se tomaron la información de los archivos dfsteam\_games\_cleaned.csv, dfusers\_items.csv y user\_reviews.csv y se utilizaron la biblioteca pandas y fastapi. 
 
-A nivel general año por año se ve un decrecimiento de accesos, con un pico en el año 2017. El único año en que se cumple el indicador es en el año 2016.
+Las funciones que se desarrollaron fueron las siguientes: 
 
-**Conclusiones**
+1. def developer( desarrollador : str ) con la cantidad de items y porcentaje de contenido Free por año según empresa desarrolladora.
+1. def UserForGenre( genero : str ) que debe devolver el usuario que acumula más horas jugadas para el género dado y una lista de la acumulación de horas jugadas por año de lanzamiento.
+1. def best\_developer\_year( año : int ) que devuelve el top 3 de desarrolladores con juegos MÁS recomendados por usuarios para el año dado. (reviews.recommend = True y comentarios positivos)
+1. def developer\_reviews\_analysis( desarrolladora : str ) que según el desarrollador, se devuelve un diccionario con el nombre del desarrollador como llave y una lista con la cantidad total de registros de reseñas de usuarios que se encuentren categorizados con un análisis de sentimiento como valor positivo o negativo.
 
-A nivel general se observa un decrecimiento importante de accesos a pesar de que se observa un crecimiento sostenido de la cantidad de hogares con acceso.
+A las anteriores funciones se les hizo el deployment a través de Fastapi, para que pudieran ser consumidas desde la web 
 
-La principal tecnología que jalona la cantidad de accesos es la fibra óptica, situación que se acentúa desde el año 2016.
+***EDA (Exploratory Data Analysis)***
 
-Como aspectos a resaltar, se encontró que a la fecha existe un total de 17.65% provincias si accesos a internet, lo cual se convierte en una oportunidad para empresa.
+El EDA se ejecuto en el archivo EDA-1 en incluyo el análisis de Estadísticas descriptivas para la columna playtime\_forever, genres y title.
 
-Por otro lado se observa una gran cantidad de provincias que en promedio tienen 2 o 3 tecnologías de acceso a internet, situación que también se convierte en una oportunidad de mercado para la empresa.
+Se observo que para la información de la columna playtime\_forever la desviación estándar fue de std: 12153, lo que nos indica una gran dispersión frente a la media que fue del mean: 1555.
 
-El decrecimiento de accesos a través de fibra óptica, requieren un estudio adicional de que otros factores pueden estar afectando ese servicio y dependiendo del estudio también se puede convertir en una oportunidad para obtener mayor participación.
+Por otro lado se encontró que en la columna genres, el genero que mayor cantidad de juegosparticipa es el genero Action con 180,  seguido por el genero Strategy con 76.
+
+Se genero un histograma de la columna 'playtime\_forever, que nos mostro que la participación del tiempo cero es la mayor dentro de la muestra. También se hizo un boxplot sobre esta misma información encontrando outliers en el rango cercano a los 340000, 100000 y 95000 minutos.
+
+Por otro lado se utilizaron herramientas que nos mostraron mediante grafica de barras la participación del top 80 (37 géneros) de los géneros que más participan en el total y que permitieron una mejor comprensión de la distribución de géneros en toda la data.
+
+Se utilizo la herramienta WordCloud para generar una nube de palabras para revisar los mas destacados en géneros y títulos de juego, encontrando el género Action y el juego Game War como los mas destacados.
+
+Se genero un grafico de dispersión para ver las fechas año en los cuales hubo mas tiempo de juego y se encontró que a partir del año 2004 se incrementa el tiempo, aunque la mayoría con tiempo de juego cero.
+
+Por ultimo se crear un gráfico de dispersión para playtime\_forever vs title que nos muestra la participación del 80% de videojuegos de los cuales 4 tienen mas de 50000 minutos de juego.
+
+
+***Modelo de machine learning***
+
+El modelo de machine se ejecuto en el archivo ModeloML.ipynb y se escogió la opción de un sistema de recomendación que tiene una relación ítem-ítem. Para el modelo se utilizo el modulo klearn el cual crear una instancia de TfidfVectorizer para transformar el texto a vectores TF-IDF y  construye la matriz TF-IDF con la columna 'genres'.
+
+Posteriormente se crea el modelo KNN que ubica los generos mas cercanos y finalmente se entrena para que sea capaz de generalizar a nuevos datos.
+
+Por ultimo para evaluar el modelo se utilizan las métricas KFold, Recall y F1\_score para evaluar el modelo.
+
+Este modelo se ubica en render para que pueda ser consumido en la ruta: <https://apipersonalproject2v2.onrender.com>.
+
+***Conclusiones***
+
+El proceso de desarrollar un sistema de recomendación basado en machine learnig incluye varias etapas que van desde la exploración de la información que se tanga sobre la recomendación de video juegos, su uso, y otros factores asociados. Pueden haber diferentes modelos de desarrollo de un sistema de recomendación y cada uno ofrece una serie de ventajas o desventajas que se deben analizar para cumplir con el objetivo o necesidad y se deben al analizar al momento de la planeación del proyecto. Por ultimo es importante evaluar el modelo con datos reales de los usuarios para poder contrastar la información que entrega este y que realmente sea útil para los usuarios.
+
+
+
+
+
 
 
 
