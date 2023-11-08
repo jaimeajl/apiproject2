@@ -112,3 +112,4 @@ El proceso de desarrollar un sistema de recomendación basado en machine learnig
 
 
 
+"# projectindiv2" 
